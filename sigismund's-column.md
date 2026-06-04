@@ -1,3 +1,189 @@
+我们网站是
+
+sigismundscolumn.com
+
+检查一遍看下是否有错误
+
+
+
+
+
+sigismund-s-column
+
+
+
+马佐夫舍省	Sigismund's Column
+
+西吉斯蒙德圆柱
+
+Kolumna Zygmunta III Wazy
+
+4.7(17,824)
+
+纪念碑
+
+plac Zamkowy, 00-001 Warszawa, 波兰
+
+62W7+W9 华沙 波兰
+
+
+
+https://maps.app.goo.gl/nih1rXkS7MTPaVqo7
+
+单景点买.com域名推荐
+
+参考以上信息检查下网站是否有错误
+
+
+
+
+
+国家 / 地区 \*：波兰（Poland）
+
+地址 \*：plac Zamkowy
+
+地址 2：（空着不填）
+
+城市 \*：Warszawa（华沙）
+
+省 / 自治区 / 直辖市 \*：马佐夫舍省（Mazowieckie Voivodeship）
+
+邮政编码 \*：00-001
+
+
+
+
+
+
+
+
+
+
+
+首屏背景图要引用
+
+C:\\Users\\Administrator\\Documents\\GitHub\\sigismund-s-column\\public\\gallery\\images (1).jpg
+
+
+
+
+
+
+
+照片画廊
+
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+
+检查照片名称是否正确并修正
+
+
+
+在 Google Maps 查看
+
+改成
+
+在 Google Maps 查看更多照片
+
+
+
+
+
+删除 探索更多 板块
+
+
+
+删除原先友情链接，新增以下友情链接
+
+
+
+波兰共和国外交与签证
+
+https://www.gov.pl/
+
+波兰国家旅游局
+
+https://www.poland.travel/en/
+
+波兰国家遗产研究院
+
+https://nid.pl/
+
+华沙市政府
+
+https://um.warszawa.pl/
+
+华沙市旅游局
+
+https://go2warsaw.pl/
+
+波兰国家图书馆
+
+https://www.bn.org.pl/
+
+马佐夫舍省政府
+
+https://www.mazovia.pl/
+
+
+
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/nih1rXkS7MTPaVqo7
+
+
+
+照片画廊
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nih1rXkS7MTPaVqo7
+
+
+
+游客评价
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nih1rXkS7MTPaVqo7
+
+
+
+地图位置
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nih1rXkS7MTPaVqo7
+
+
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+
+
+
+
+
+
+
+新增
+
+
+
+波兰语
+
+俄语
+
+德语
+
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+
+
+
 你正在用（Next.js开发）
 为一个新景点【Sigismund's Column】【sigismundscolumn】构建静态/Next.js 单页指南网站。
 页面只需要支持中文和英文双语言
@@ -10,7 +196,7 @@
 
 1、
 
-首屏背景图要引用C:\Users\Administrator\Downloads\波兰\sigismundscolumn\public\gallery\images (1).jpg
+首屏背景图要引用C:\\Users\\Administrator\\Downloads\\波兰\\sigismundscolumn\\public\\gallery\\images (1).jpg
 
 2、
 基础信息纯 Markdown 格式・中英对照
@@ -59,3 +245,4 @@
 特色体验：华沙老城内老式宅邸住宿，沉浸式感受中欧老城街巷氛围，烟火气息浓厚
 预算之选：交通枢纽周边高性价比住宿，公共交通便捷，短途公交可达齐格蒙塔圆柱景区
 【住宿补充说明】华沙老城片区治安良好，日间游览十分安全，深夜尽量避开偏僻小巷。旅游旺季、节假日住宿价格会上调，建议提前预约订房。优先选择老城及周边地段住宿，步行圈覆盖绝大多数历史景点，大幅节省交通时间。
+

@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "title": "Letna Park | Prague Hilltop Panoramic Park - Best European Spots",
+    "description": "Complete guide to Letna Park in Czech Republic. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Vltava River hillside park with breathtaking Old Town views."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Letna Park",
+    "subtitle": "Prague Hilltop Panoramic Park · Vltava River Sunset Destination",
+    "rating": "4.7",
+    "reviewCount": "28,678",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Letna Park",
+    "description": "The first time you stand on the hilltop platform of Letna Park, you'll be completely mesmerized by the panoramic view of Prague. This hidden hilltop park in Prague 7 has no crowded commercial attractions, no artificial social media sets—just open highlands, lush greenery, and unobstructed riverside views that heal every visitor.\n\nThe park spreads out gently across the terrain, with vast emerald lawns stretching out, ancient trees growing scattered along the paths. A breeze passes through the leaves, carrying the unique refreshing scent of a Central European city. Standing at the highland edge, the Vltava River winds through the city, the Charles Bridge, the red-roofed Old Town buildings, and the distant castle district create layers of scenery. The entire Prague Old Town unfolds before your eyes, with views so vast they instantly relax you.\n\nDuring the day, locals sit on the lawn in small groups—some spread blankets for picnics, others jog or stroll along the tree-lined paths, children play freely in the open spaces. The atmosphere is serene and gentle. Retro stone pillars and historical sculptures are scattered throughout the park, adding rich humanistic texture to the natural greenery. Every casual shot captures the lazy atmosphere of Central European city life.\n\nEvening sunset is the highlight moment here. The warm orange sun slowly descends, soft glow fills the red-roofed Old Town and the river surface, the city silhouette wrapped in gentle halos. The evening breeze is cool, traffic and urban hustle filtered out by distant mountains and forests. No need to search for the perfect viewing angle—the entire highland offers excellent views. Simply watching the sunset dye the sky red, you understand Prague's gentle and romantic city temperament.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Recommended to visit in the evening to avoid daytime tour groups",
+        "Early morning has clear air, evening offers the best sunset views for photography",
+        "The entire park is free with no entrance fees or viewing platform charges",
+        "Wear comfortable flat shoes; paths can be slippery after rain"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Prague's most representative hilltop historical park",
+        "A benchmark of Czech modern urban garden renovation",
+        "A must-visit niche sunset destination in Central Europe",
+        "The best viewpoint overlooking Prague Old Town"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Letna Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "A Century of Highland Transformation",
+        "content": "Letna Park was built on the natural terrain of Letna Hill, with area history dating back to the 19th century. Originally a suburban natural forest and hillside wasteland, it was planned as a public recreational green space due to its excellent city views. The initial construction focused on basic trails and viewing platform renovations to serve local residents' daily leisure. It gradually added humanistic sculptures, green landscapes, and leisure facilities, slowly forming a complete urban park pattern. This area was once an important gathering ground and city landmark in Prague, witnessing urban architectural changes, riverside renovations, and urban expansion.\n\nAfter multiple renovations and vegetation optimizations, the park has always retained its original hillside terrain and natural foundation, without excessive commercial development. From a niche suburban forest to today's globally beloved panoramic viewing park, it has maintained an open and inclusive character for centuries, becoming a classic representation of Prague's harmonious coexistence of landscape and city, nature and urban life. The four seasons are distinct—spring brings fresh green foliage and flowers, summer offers thick shade, autumn displays layered vegetation, winter presents a cool mountain town atmosphere."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "Built on natural hillside terrain, the open hilltop viewing platform is the core highlight, paired with gentle lawns, retro tree-lined paths, classical memorial sculptures, and groves of native trees. The terrain is varied and undulating, with unobstructed riverside views. Natural terrain and artificial landscapes blend perfectly. The simple Central European natural park style integrates 19th-century urban public garden design. Without elaborate artificial modifications, it focuses on native vegetation, open highlands, and retro humanistic sculptures. Overall, it's relaxed and open, combining natural wildness with urban humanistic texture."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "Letna Park witnesses Prague's hundred-year transformation from a suburban hilltop in ancient times to a shared urban public leisure space. It regularly hosts outdoor events, small concerts, and spring markets. It's the daily gathering spot for Czech locals for picnics, jogging, dating, and unwinding—carrying Prague's slow-paced urban life atmosphere. Small creative venues and leisure shops within the park showcase local creative vitality, adding modern leisure experiences to the city park. It's both the best viewing platform overlooking Prague and a healing hidden gem hidden on the city's highlands."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "Evening sunset is the highlight moment at Letna Park. The warm orange sun slowly descends, soft glow fills the red-roofed Old Town and the river surface, the city silhouette wrapped in gentle halos. The evening breeze is cool, traffic and urban hustle filtered out by distant mountains and forests. No need to search for the perfect viewing angle—the entire highland offers excellent views. Simply watching the sunset dye the sky red, you understand Prague's gentle and romantic city temperament. Stripped of mainstream attractions' noise, Letna Park uses the highland as its backdrop and the city as its scenery, blending natural greenery with Old Town烟火."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Letenské sady",
+    "type": "Attraction Type",
+    "typeValue": "Urban Viewing Park, Historical Highland Green Space, Panoramic Scenic Area",
+    "country": "Country",
+    "countryValue": "Czech Republic",
+    "city": "City",
+    "cityValue": "Prague",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Letná, 170 00 Prague 7, Czechia"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Outdoor Area",
+    "outdoorTime": "Open 24/7 year-round; no park closure restrictions for public green spaces",
+    "lighthouse": "Creative Venues & Leisure Shops in the Park",
+    "summer": "Summer (April - September)",
+    "summerTime": "Daily 09:00–20:00",
+    "winter": "Winter (October - March)",
+    "winterTime": "Daily 09:00–18:00",
+    "warning": "Travel Tips",
+    "warningTime": "Early morning offers clear air; evening sunset provides the best views for photography",
+    "tip": "Recommended to visit in the evening to avoid daytime tour group crowds"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "outdoor": "Letna Park Entire Area",
+    "outdoorPrice": "Free access; no entrance fees or viewing platform charges",
+    "lighthouse": "Small Exhibition Halls & Retro Cafes in the Park",
+    "adults": "Adults",
+    "adultsPrice": "Separate admission required if visiting",
+    "students": "Youth",
+    "studentsPrice": "Discounted pricing (subject to venue announcement)",
+    "children": "Children",
+    "childrenPrice": "Free or discounted (subject to venue announcement)",
+    "card": "Prague City Card",
+    "cardPrice": "Can offset some nearby cultural tourism expenses; independent travelers don't need additional tickets"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "airport": "From Prague Václav Havel Airport",
+    "airportDesc": "Take airport express or intercity buses directly to Prague 7, then transfer to short tram and walk to the park foothills. You can also book rideshare directly to the scenic area—ideal for travelers with more luggage.",
+    "selfDrive": "City Public Transport (Recommended)",
+    "selfDriveDesc": "Trams are the best option within the city, with frequent departures and full coverage. After getting off, climb the gentle slope for about 10 minutes to the park entrance.",
+    "bus": "From Old Town & Charles Bridge",
+    "busDesc": "Walk along the river to the hilltop—the riverside scenery along the way is rich, offering an excellent walking experience. Follow the Vltava River embankment trail to easily reach the Letna foothills.",
+    "intercity": "From Prague Central Station",
+    "intercityDesc": "Take a combination of metro and tram for short, efficient travel, ideal for cross-district travelers.",
+    "cycling": "Bike / Scooter",
+    "cyclingDesc": "The city supports bike-sharing and short-distance scooters. The mountain gentle slope sections are friendly for slow travel, with standardized parking points nearby.",
+    "tips": "Travel Tips",
+    "tipsDesc": "It's recommended to purchase Prague public transport passes for unlimited tram, metro, and bus rides, connecting the Old Town, Castle District, and niche highland attractions."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Recommended to visit in the evening to avoid crowds. Enter from the main hillside entrance, walk up the tree-lined gentle slope trail to the core hilltop viewing platform for panoramic views of Prague. Explore the sculpture paths and forest trails, stroll through the lawn leisure area, then descend via the riverside trail to connect with other Vltava riverside attractions. The entire walk is easy without strenuous climbing. Pure sightseeing takes about 1.5 hours; slow strolling and waiting for sunset can take half a day.",
+    "steps": [
+      "Arrive at the Prague 7 district transport station and follow signs to the Letna main entrance",
+      "Walk up the gentle tree-lined slope trail, enjoying native trees and street greenery along the way",
+      "Reach the hilltop core viewing platform, pause to overlook the Vltava River and Prague Old Town panorama",
+      "Walk along the main park road to visit retro memorial sculptures and humanistic landscapes",
+      "Explore niche forest trails to avoid crowds and feel the peaceful woodland atmosphere",
+      "Cross to the central large lawn to observe locals' daily leisure, take a moment to relax",
+      "Walk around the park's edge trails for different city perspectives from various angles",
+      "Descend via the park's side gentle slope to connect with the riverside trail and continue exploring Prague"
+    ],
+    "supplements": [
+      "The park has many gentle slopes and stone-paved trails; wear comfortable flat shoes",
+      "Paths can be slippery after rain; pay attention to safety",
+      "The park is urban public green space; protect vegetation, avoid trampling greens or littering",
+      "Highland winds can be strong; spring and autumn temperature differences are noticeable; bring a light jacket",
+      "No large amusement facilities in the park; focus on viewing, strolling, and leisure—ideal for slow-paced travel"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Hilltop Core Viewing Platform",
+        "desc": "Unobstructed panoramic views overlooking Prague Old Town, river, and red-roofed buildings; the top choice for sunset shots"
+      },
+      {
+        "name": "Central Tree-Lined Path",
+        "desc": "Trees extend vertically with strong depth of field; perfect for daily atmospheric street photography"
+      },
+      {
+        "name": "Lawn Open Area",
+        "desc": "Large green space with distant city backdrop; clean, fresh, natural style photography"
+      },
+      {
+        "name": "Sculpture & Humanistic Trail",
+        "desc": "Retro sculptures paired with tree backgrounds; a niche humanistic quality spot"
+      },
+      {
+        "name": "Highland Edge Fence",
+        "desc": "Use the city skyline as backdrop; great for combining portraits with scenery"
+      },
+      {
+        "name": "Riverside Distant Corner",
+        "desc": "Side shots of the river bend with Old Town in frame; unique and niche composition"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Evening sunset golden hour offers soft lighting; backlit and side-lit shots create strong atmosphere. Sunny noon light is harsh; choose shaded areas for shooting. Drone flying is prohibited throughout the park; follow local airspace regulations. When photographing locals, be polite and take candid shots from a distance to avoid disturbing their leisure. During peak travel season evenings, more tourists visit; arrive 30 minutes early to secure empty shots."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Prague 7 Highland B&B (View Preferred)",
+        "desc": "Windows overlooking the city and riverside scenery; walking distance to the park, quiet with few people. The ideal choice for enjoying Letna Park panoramic views",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Prague Old Town Core Hotels (Convenience)",
+        "desc": "Excellent transportation connecting Charles Bridge, Castle, and Letna Park within a day. Complete commercial facilities nearby",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Old Town Retro Apartments (Vintage Style)",
+        "desc": "Converted from European-style historic buildings with rich atmosphere. Perfect for cultural travel experiences to feel Central European city charm",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Budget Hotels Along Tram Lines (Value)",
+        "desc": "Direct public transport to the park; complete facilities with excellent value. Ideal for budget-conscious independent travelers",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Quiet B&B in Park Surrounding Neighborhood (Secluded)",
+        "desc": "Away from tourist crowds; deep experience of local daily life. Perfect for slow-paced in-depth travelers",
+        "price": "Price varies by season"
+      }
+    ],
+    "supplements": "Accommodation Tips",
+    "supplementsContent": "Prague's city center is generally safe with high pedestrian safety. No need to worry too much about nighttime outings in quiet residential areas. Accommodations book up quickly during peak travel season, Christmas, and summer holidays—book in advance to secure prices. Prioritize accommodations near tram and metro stations for more efficient travel between attractions, saving time. The city has complete dining facilities; there are many cafes and local pubs around the park, making it convenient to dine nearby after exploring."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Letna Park Highland Panoramas & Prague Old Town Scenery",
+    "captions": [
+      "Letna Park Panoramic View",
+      "Prague Old Town Overlook",
+      "Vltava River Banks",
+      "Hilltop Viewing Platform",
+      "Tree-Lined Paths",
+      "Park Sunset",
+      "Charles Bridge & Old Town",
+      "Green Lawn"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Traveler Xiao Lin",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "The most unforgettable place in Prague! Standing on the hilltop watching the sunset, the entire Old Town turned golden—how romantic. The atmosphere of locals picnicking on the lawn was also amazing."
+      },
+      {
+        "name": "Photography Enthusiast AJ",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "A photography paradise! Every angle is postcard-level scenery. The evening light is the most beautiful—arrive early to secure your spot."
+      },
+      {
+        "name": "European Backpacker Sophie",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "The perfect escape from crowds! I lay on the lawn for an entire afternoon watching clouds drift—how healing. The view of the Vltava River bend is especially beautiful."
+      },
+      {
+        "name": "Artistic Soul Marta",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "I prefer this to the popular attractions. No over-development, just natural and urban integration of tranquility. The sculptures and paths all have great character."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Letná, 170 00 Prague 7, Czechia",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Letna Park Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Czech Tourism",
+      "tourism": "Prague Travel",
+      "england": "Visit Czech Republic"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "..."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "..."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "..."
+        }
+      ],
+      "title": "Preferences Cookies",
+      "description": "Preferences Description"
+    },
+    "consentManagement": "Consent management...",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Letna Park",
+    "text": "Letna Park is one of Prague's most representative urban hilltop parks and an important public leisure green space in Czech Republic.\n\nAs an iconic natural landmark along the Vltava River, Letna Park has witnessed centuries of urban transformation and garden development history. Today, the scenic area is open to the public free of charge, offering an excellent destination for exploring Prague's panoramic city views and an important window for visitors worldwide to experience Central European urban charm."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {
+        "name": "Charles Bridge",
+        "url": "https://www.prague.eu"
+      },
+      {
+        "name": "Prague Castle",
+        "url": "https://www.hrad.cz"
+      },
+      {
+        "name": "Old Town Square",
+        "url": "https://www.prague.eu"
+      },
+      {
+        "name": "Petřín Lookout Tower",
+        "url": "https://www.petrin.cz"
+      }
+    ],
+    "tours": [
+      {
+        "name": "Prague Old Town Deep Tour",
+        "url": "https://www.prague.eu"
+      },
+      {
+        "name": "Vltava River Cruise",
+        "url": "https://www.prague.eu"
+      },
+      {
+        "name": "Castle District Guided Tour",
+        "url": "https://www.hrad.cz"
+      },
+      {
+        "name": "City Panoramic Cycling",
+        "url": "https://www.prague.eu"
+      }
+    ]
+  }
+}
