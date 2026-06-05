@@ -4,6 +4,7 @@ import { useTranslations } from 'next-intl';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
+  const tHero = useTranslations('hero');
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -21,8 +22,7 @@ export default function BasicInfo() {
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('country')} value={t('countryValue')} />
           <InfoCard title={t('city')} value={t('cityValue')} />
-          <InfoCard title={t('googleRating')} value="4.7/5 (8,278)" />
-          <InfoCard title={t('phone')} value="+45 72 54 36 53" />
+          <InfoCard title={t('googleRating')} value={`${tHero('rating')}/5 (${tHero('reviewCount')})`} />
           <div className="md:col-span-2">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>

@@ -218,28 +218,52 @@
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
-        "name": "Traveler Wang",
-        "date": "April 2026",
+        "name": "Buster Got it",
+        "date": "Vor 3 Monaten",
         "rating": 5,
-        "text": "The most impressive landmark in Warsaw Old Town! The bronze statue glitters in the sunlight, the stone column carvings are exquisite. The light at dusk is most beautiful, highly recommended!"
+        "text": "Die Sigismundsäule (polnisch: Kolumna Zygmunta), die 1644 errichtet wurde, befindet sich auf dem Schlossplatz in Warschau, Polen, und ist eines der berühmtesten Wahrzeichen Warschaus sowie das erste weltliche Denkmal in Form einer Säule in der modernen Geschichte."
       },
       {
-        "name": "History Enthusiast Kevin",
-        "date": "March 2026",
+        "name": "Isabelle Ana-Maria",
+        "date": "Vor 5 Monaten",
         "rating": 5,
-        "text": "After understanding Sigismund's Column's historical background, I gained a deeper understanding of Warsaw. Witnessing the city's reconstruction from war damage, very meaningful attraction."
+        "text": "Ich habe die Sigismundsäule im Winter besucht, und sie sah absolut wunderschön aus. Der ganze Platz hat eine magische Atmosphäre, wenn es kalt ist und schneit. Die Aussicht war wirklich unglaublich."
       },
       {
-        "name": "Photography Enthusiast Anna",
-        "date": "February 2026",
+        "name": "조문경",
+        "date": "Vor 3 Monaten",
         "rating": 5,
-        "text": "Photography paradise! The twilight backlight position produces amazing shots. The colored buildings around the square with the column create very rich compositions."
+        "text": "Ein toller Fotospot für Touristen. Die Gebäude sind wunderschön und es ist der Ausgangspunkt der Touristenattraktionen in der Altstadt. Es werden keine Eintrittskarten benötigt. Die Aussicht hinter diesem Denkmal ist wunderschön."
       },
       {
-        "name": "Backpacker Mark",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Highlight of my Poland trip! Standing under the column and feeling the weight of history, the surrounding Old Town atmosphere is wonderful. Recommend visiting in the evening for softer light."
+        "name": "khalil bourazzan",
+        "date": "Vor 7 Monaten",
+        "rating": 5,
+        "text": "Stolz auf dem Schlossplatz stehend, ist die Sigismundsäule eines der Wahrzeichen Warschaus. Sie ehrt König Sigismund III. Wasa, den Monarchen, der Warschau zur Hauptstadt Polens machte."
+      },
+      {
+        "name": "Andre Delgado",
+        "date": "Vor 5 Monaten",
+        "rating": 5,
+        "text": "Diese Säule steht seit 1644. Sie wurde 1887 ersetzt, bis sie im 2. Weltkrieg umgestoßen wurde. Sowohl die ursprüngliche Säule als auch die zweite liegen neben dem Schloss und können besichtigt werden. Die Statue von König Sigismund ist das Original."
+      },
+      {
+        "name": "Julie",
+        "date": "Vor 5 Monaten",
+        "rating": 5,
+        "text": "Ein Nachtfoto von der Säule. Abends war es an diesem Ort viel ruhiger. Ich war im Winter dort und es war kalt. Der Sommer mag anders sein. Diese Säule ist ein häufiger Treffpunkt für den Beginn von Touren."
+      },
+      {
+        "name": "Aida Rabina",
+        "date": "Vor 7 Monaten",
+        "rating": 5,
+        "text": "Einer der besten Orte, um einen atemberaubenden Sonnenuntergang in Warschau zu erleben! Die 22 m hohe Sigismundsäule wurde nach Sigismund III. Wasa, König von Polen (1587-1632) und Schweden (1592-1599), benannt."
+      },
+      {
+        "name": "Sahib o",
+        "date": "Vor 8 Monaten",
+        "rating": 5,
+        "text": "Die Altstadt in Warschau ist wunderschön und voller Geschichte. Die Sigismundsäule ist ein Wahrzeichen und ein toller Ort, um die Altstadt zu erkunden!"
       }
     ]
   },

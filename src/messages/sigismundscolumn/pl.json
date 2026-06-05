@@ -218,28 +218,52 @@
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
-        "name": "Traveler Wang",
-        "date": "April 2026",
+        "name": "Buster Got it",
+        "date": "3 miesiące temu",
         "rating": 5,
-        "text": "The most impressive landmark in Warsaw Old Town! The bronze statue glitters in the sunlight, the stone column carvings are exquisite. The light at dusk is most beautiful, highly recommended!"
+        "text": "Kolumna Zygmunta, wzniesiona pierwotnie w 1644 roku, znajduje się na Placu Zamkowym w Warszawie w Polsce i jest jednym z najbardziej znanych punktów orientacyjnych Warszawy, a także pierwszym świeckim pomnikiem w formie kolumny w nowożytnej historii."
       },
       {
-        "name": "History Enthusiast Kevin",
-        "date": "March 2026",
+        "name": "Isabelle Ana-Maria",
+        "date": "5 miesięcy temu",
         "rating": 5,
-        "text": "After understanding Sigismund's Column's historical background, I gained a deeper understanding of Warsaw. Witnessing the city's reconstruction from war damage, very meaningful attraction."
+        "text": "Odwiedziłem Kolumnę Zygmunta zimą i wyglądała absolutnie pięknie. Cały plac ma magiczną atmosferę, gdy jest zimno i śnieżnie. Widok był naprawdę niesamowity."
       },
       {
-        "name": "Photography Enthusiast Anna",
-        "date": "February 2026",
+        "name": "조문경",
+        "date": "3 miesiące temu",
         "rating": 5,
-        "text": "Photography paradise! The twilight backlight position produces amazing shots. The colored buildings around the square with the column create very rich compositions."
+        "text": "Świetne miejsce na zdjęcia dla turystów. Budynki są piękne i jest to punkt startowy atrakcji turystycznych Starego Miasta. Nie są wymagane bilety na zwiedzanie. Widok za tym pomnikiem jest wspaniały."
       },
       {
-        "name": "Backpacker Mark",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Highlight of my Poland trip! Standing under the column and feeling the weight of history, the surrounding Old Town atmosphere is wonderful. Recommend visiting in the evening for softer light."
+        "name": "khalil bourazzan",
+        "date": "7 miesięcy temu",
+        "rating": 5,
+        "text": "Dumnie stojąca na Placu Zamkowym Kolumna Zygmunta to jeden z najbardziej kultowych zabytków Warszawy. Honoruje króla Zygmunta III Wazę, monarchę, który uczynił Warszawę stolicą Polski."
+      },
+      {
+        "name": "Andre Delgado",
+        "date": "5 miesięcy temu",
+        "rating": 5,
+        "text": "Ta kolumna stoi od 1644 roku. Kolumna została wymieniona w 1887 r., dopóki nie została zburzona podczas II wojny światowej. Zarówno oryginalna kolumna, jak i druga leżą obok zamku i można je zobaczyć. Statua króla Zygmunta jest oryginalna."
+      },
+      {
+        "name": "Julie",
+        "date": "5 miesięcy temu",
+        "rating": 5,
+        "text": "Nocne zdjęcie kolumny. Wieczorem było tu znacznie spokojniej. Odwiedziłem to miejsce zimą i było zimno. Lato może być inne. Ta kolumna jest częstym miejscem spotkań na rozpoczęcie wycieczek."
+      },
+      {
+        "name": "Aida Rabina",
+        "date": "7 miesięcy temu",
+        "rating": 5,
+        "text": "Jedno z najlepszych miejsc na podziwianie oszałamiającego zachodu słońca w Warszawie! 22-metrowa Kolumna Zygmunta została nazwana na cześć Zygmunta III Wazy, króla Polski (1587-1632) i Szwecji (1592-1599)."
+      },
+      {
+        "name": "Sahib o",
+        "date": "8 miesięcy temu",
+        "rating": 5,
+        "text": "Stare Miasto w Warszawie jest piękne i pełne historii. Kolumna Zygmunta to kultowy punkt orientacyjny i świetne miejsce na rozpoczęcie zwiedzania starego miasta!"
       }
     ]
   },

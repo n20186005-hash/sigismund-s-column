@@ -3,34 +3,26 @@
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/images (1).jpg', alt: 'Sigismund\'s Column全景' },
-  { src: '/gallery/images (2).jpg', alt: '城堡广场全貌' },
-  { src: '/gallery/images (3).jpg', alt: '青铜雕像细节' },
-  { src: '/gallery/images (4).jpg', alt: '华沙老城街景' },
-  { src: '/gallery/images (5).jpg', alt: '皇家宫殿外立面' },
-  { src: '/gallery/images (6).jpg', alt: '老城复古建筑群' },
-  { src: '/gallery/images (7).jpg', alt: '广场黄昏时分' },
-  { src: '/gallery/images (8).jpg', alt: '石柱雕刻细节' },
-  { src: '/gallery/images (9).jpg', alt: 'Sigismund\'s Column近景' },
-  { src: '/gallery/images (10).jpg', alt: '华沙老城远景' },
-  { src: '/gallery/images (11).jpg', alt: '城堡广场风光' },
-  { src: '/gallery/images (12).jpg', alt: '圆柱与王宫' },
-  { src: '/gallery/images (13).jpg', alt: '华沙天空线' },
-];
+const photoIndices = Array.from({ length: 13 }, (_, i) => i + 1);
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const captions = t.raw('captions') as string[];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
+  const photos = photoIndices.map((num, i) => ({
+    src: `/gallery/images (${num}).jpg`,
+    alt: captions?.[i] || `Image ${num}`,
+  }));
+
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
-  }, []);
+  }, [photos.length]);
 
   const goToNext = useCallback(() => {
     setCurrentIndex((prev) => (prev === photos.length - 1 ? 0 : prev + 1));
-  }, []);
+  }, [photos.length]);
 
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);

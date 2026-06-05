@@ -201,16 +201,21 @@
     "title": "Stunning Photos",
     "subtitle": "Sigismund's Column and Warsaw Old Town Scenery",
     "captions": [
-      "Sigismund's Column Panorama",
-      "Castle Square Overview",
-      "Bronze Statue Details",
-      "Warsaw Old Town Streets",
-      "Royal Palace Facade",
-      "Old Town Retro Building Clusters",
-      "Square at Twilight",
-      "Column Carving Details"
+      "Панорамный вид на колонну Сигизмунда",
+      "Замковая площадь и колонна",
+      "Деталь бронзовой статуи",
+      "Вид на улицу Старого города",
+      "Фасад Королевского дворца",
+      "Исторические здания",
+      "Колонна в сумерках",
+      "Статуя крупным планом",
+      "Колонна Сигизмунда крупным планом",
+      "Вид на Старый город Варшавы издалека",
+      "Пейзаж Замковой площади",
+      "Колонна и дворец",
+      "Панорама Варшавы"
     ],
-    "viewAll": "View on Google Maps"
+    "viewAll": "Посмотреть больше фото на Google Maps"
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -218,28 +223,52 @@
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
-        "name": "Traveler Wang",
-        "date": "April 2026",
+        "name": "Buster Got it",
+        "date": "3 месяца назад",
         "rating": 5,
-        "text": "The most impressive landmark in Warsaw Old Town! The bronze statue glitters in the sunlight, the stone column carvings are exquisite. The light at dusk is most beautiful, highly recommended!"
+        "text": "Колонна Сигизмунда (польск. Kolumna Zygmunta), первоначально воздвигнутая в 1644 году, расположена на Замковой площади в Варшаве, Польша, и является одной из самых известных достопримечательностей Варшавы, а также первым светским памятником в виде колонны в современной истории."
       },
       {
-        "name": "History Enthusiast Kevin",
-        "date": "March 2026",
+        "name": "Isabelle Ana-Maria",
+        "date": "5 месяцев назад",
         "rating": 5,
-        "text": "After understanding Sigismund's Column's historical background, I gained a deeper understanding of Warsaw. Witnessing the city's reconstruction from war damage, very meaningful attraction."
+        "text": "Я посетил колонну Сигизмунда зимой, и она выглядела совершенно потрясающе. Вся площадь имеет волшебную атмосферу, когда холодно и снежно. Вид был поистине удивительным."
       },
       {
-        "name": "Photography Enthusiast Anna",
-        "date": "February 2026",
+        "name": "조문경",
+        "date": "3 месяца назад",
         "rating": 5,
-        "text": "Photography paradise! The twilight backlight position produces amazing shots. The colored buildings around the square with the column create very rich compositions."
+        "text": "Отличное место для фотографий для туристов. Здания красивые, и это отправная точка для туристических достопримечательностей старого города. Билеты для посещения не требуются. Вид за этим памятником красивый."
       },
       {
-        "name": "Backpacker Mark",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Highlight of my Poland trip! Standing under the column and feeling the weight of history, the surrounding Old Town atmosphere is wonderful. Recommend visiting in the evening for softer light."
+        "name": "khalil bourazzan",
+        "date": "7 месяцев назад",
+        "rating": 5,
+        "text": "Гордо возвышаясь на Замковой площади, Колонна Сигизмунда является одной из самых знаковых достопримечательностей Варшавы. Она чествует короля Сигизмунда III Вазу, монарха, сделавшего Варшаву столицей Польши."
+      },
+      {
+        "name": "Andre Delgado",
+        "date": "5 месяцев назад",
+        "rating": 5,
+        "text": "Эта колонна стоит с 1644 года. Колонна была заменена в 1887 году, пока не была сбита во время Второй мировой войны. Как оригинальная колонна, так и вторая лежат рядом с замком, и их можно посетить. Статуя короля Сигизмунда оригинальная."
+      },
+      {
+        "name": "Julie",
+        "date": "5 месяцев назад",
+        "rating": 5,
+        "text": "Ночное фото колонны. Вечером в этом месте было намного тише. Я был здесь зимой, и было холодно. Летом может быть по-другому. Эта колонна является обычным местом встречи для начала экскурсий."
+      },
+      {
+        "name": "Aida Rabina",
+        "date": "7 месяцев назад",
+        "rating": 5,
+        "text": "Одно из лучших мест для наблюдения за потрясающим закатом в Варшаве! Колонна Сигизмунда высотой 22 м названа в честь Сигизмунда III Вазы, короля Польши (1587-1632) и Швеции (1592-1599)."
+      },
+      {
+        "name": "Sahib o",
+        "date": "8 месяцев назад",
+        "rating": 5,
+        "text": "Старый город в Варшаве красив и полон истории. Колонна Сигизмунда - это знаковая достопримечательность и отличное место для начала изучения старого города!"
       }
     ]
   },
