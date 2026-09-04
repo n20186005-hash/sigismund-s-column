@@ -47,7 +47,7 @@ export default function RouteSection() {
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
         >
           <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
-            游览须知
+            {t('supplementTitle')}
           </h3>
           <ul className="space-y-3">
             {supplements.map((i) => (

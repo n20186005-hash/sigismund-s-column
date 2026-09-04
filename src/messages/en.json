@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Sigismund's Column | Warsaw Castle Square Core Monument & Old Town Landmark - Best European Attractions",
+    "title": "Sigismund's Column (Warsaw) - Visitor Guide & Location",
     "description": "Complete guide to exploring Sigismund's Column in Warsaw, Poland. Learn about opening hours, transportation, ticket info, travel tips and stunning photos. Poland's most iconic classical memorial column and Old Town cultural landmark."
   },
   "header": {
@@ -14,13 +14,13 @@
     "title": "Sigismund's Column",
     "subtitle": "Warsaw Castle Square Core Monument · 17th Century Classical Memorial",
     "rating": "4.7",
-    "reviewCount": "17,658",
+    "reviewCount": "18,224",
     "hours": "Open 24 Hours",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Explore Sigismund's Column",
-    "description": "Honestly, when you step into Warsaw Castle Square, the first thing that catches your eye is this straight-standing Sigismund's Column. It stands quietly in the heart of the Old Town, surrounded by colorful retro European buildings and magnificent royal palace architecture, with an overwhelming vintage atmosphere. I visited on a cool autumn afternoon, the square's breeze gentle, the Old Town's red-tile buildings layered and spread out, the ancient stone column particularly solemn under the clear sky.\n\nThe bronze statue atop the column stands tall and proud, telling the stories of the old dynasty. Visitors walk slowly around, without the noise of over-commercialization, only the unique peaceful atmosphere of the Old Town. Occasionally street performers play classical music, the melody echoing through the square's air, blending with the century-old monument, instantly creating the perfect ambiance.\n\nYou can freely walk around the column, carefully observe the traces of weathering on the stone, touch the texture of historical沉淀; or sit on the square's stone steps, watch people come and go, gaze at the entire Warsaw Old Town's vintage street scenes. This monument is not just a check-in landmark, but the spiritual anchor of the entire city.\n\nWhen twilight falls, warm light covers the square, the column and Old Town buildings merge into one, the play of light and shadow gentle and soft. Standing here, you can see the lively city烟火, and also read the city's story of war and rebirth. The ancient monument and modern life coexist gently—this is the most moving appearance of Warsaw.",
+    "description": "Honestly, when you step into Warsaw Castle Square, the first thing that catches your eye is this straight-standing Sigismund's Column. It stands quietly in the heart of the Old Town, surrounded by colorful retro European buildings and magnificent royal palace architecture, with an overwhelming vintage atmosphere. I visited on a cool autumn afternoon, the square's breeze gentle, the Old Town's red-tile buildings layered and spread out, the ancient stone column particularly solemn under the clear sky.\n\nThe bronze statue atop the column stands tall and proud, telling the stories of the old dynasty. Visitors walk slowly around, without the noise of over-commercialization, only the unique peaceful atmosphere of the Old Town. Occasionally street performers play classical music, the melody echoing through the square's air, blending with the century-old monument, instantly creating the perfect ambiance.\n\nYou can freely walk around the column, carefully observe the traces of weathering on the stone, touch the texture of the stone steeped in history; or sit on the square's stone steps, watch people come and go, gaze at the entire Warsaw Old Town's vintage street scenes. This monument is not just a check-in landmark, but the spiritual anchor of the entire city.\n\nWhen twilight falls, warm light covers the square, the column and Old Town buildings merge into one, the play of light and shadow gentle and soft. Standing here, you can see the lively pulse of the city, and also read the city's story of war and rebirth. The ancient monument and modern life coexist gently—this is the most moving appearance of Warsaw.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -61,7 +61,7 @@
       {
         "id": "experience",
         "title": "Core Experience",
-        "content": "Walk around the monument in a circle, shoot the landmark panorama and humanistic atmosphere from multiple angles. Walk to the north side of the square, closely visit the Royal Palace's facade, feel the classical royal architectural momentum. Walk along the square's edge pathways, check in the Old Town's retro colored building clusters, explore the surrounding minor streets. When twilight falls, warm light covers the square, the column and Old Town buildings merge into one, the play of light and shadow gentle—this is the perfect timing for shooting vintage大片."
+        "content": "Walk around the monument in a circle, shoot the landmark panorama and humanistic atmosphere from multiple angles. Walk to the north side of the square, closely visit the Royal Palace's facade, feel the classical royal architectural momentum. Walk along the square's edge pathways, explore the Old Town's retro colored building clusters and the surrounding minor streets. When twilight falls, warm light covers the square, the column and Old Town buildings merge into one, the play of light and shadow gentle—the perfect moment for atmospheric, vintage-style photography."
       }
     ]
   },
@@ -135,6 +135,7 @@
       "Stay and sit in the square's open-air area, observe local residents' and tourists' daily state",
       "Slowly leave along the Old Town main road, continue exploring Warsaw Old Town's deep attractions"
     ],
+    "supplementTitle": "Practical notes",
     "supplements": [
       "Square mainly stone-paved surface, road surface is uneven, recommended to wear comfortable flat shoes for easy walking",
       "Winter square winds are relatively strong, pay attention to wind protection and warmth",
@@ -156,7 +157,7 @@
       },
       {
         "name": "Twilight Backlight Position",
-        "desc": "Use sunset soft light to outline column contours, atmosphere vintage大片首选"
+        "desc": "Use the soft light of sunset to outline the column's silhouette — a top choice for atmospheric old-town photography"
       },
       {
         "name": "Street Entrance Frame",
@@ -185,7 +186,7 @@
       },
       {
         "name": "Unique Experience",
-        "desc": "Old-style mansion accommodation within Warsaw Old Town, immersive Central European Old Town street atmosphere, rich local烟火气息",
+        "desc": "Old-style mansion accommodation within Warsaw Old Town, immersive Central European Old Town street atmosphere and authentic everyday city life",
         "price": "Price varies by season"
       },
       {
@@ -279,6 +280,7 @@
   },
   "footer": {
     "rights": "© 2026 Sigismund's Column Independent Tourism Research Association · All Rights Reserved.",
+    "lastUpdated": "Content last reviewed by the independent editorial team on September 4, 2026.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -288,11 +290,12 @@
       "tourism": "Warsaw Tourism",
       "england": "Warsaw Tour"
     },
+    "photoCredit": "All photos displayed on this website remain the property of their respective copyright owners and are used here for informational purposes only.",
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: April 2026",
+    "lastUpdated": "Last Updated: September 4, 2026",
     "sections": [
       {
         "heading": "1. Information Collection",
@@ -314,7 +317,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: April 2026",
+    "lastUpdated": "Last Updated: September 4, 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -379,6 +382,61 @@
     },
     "consentManagement": "Consent management...",
     "rejectAll": "Reject All"
+  },
+  "facilities": {
+    "title": "Visitor Facilities Nearby",
+    "subtitle": "Around-the-square facilities of the types most visitors ask about. This independent guide stays neutral: it lists types of services only and never recommends specific businesses.",
+    "items": [
+      { "name": "Public restrooms", "desc": "Public toilets are available around Castle Square and inside the Old Town, including paid facilities near the Royal Castle entrance." },
+      { "name": "Parking", "desc": "Parking in the Old Town is very limited. The nearest parking lots sit at the edges of the Old Town or along the Vistula boulevards, so public transport is recommended." },
+      { "name": "Restaurants & cafés", "desc": "The Old Town is filled with restaurants, cafés and traditional milk bars serving Polish cuisine." },
+      { "name": "Hotels & accommodation", "desc": "Hotels, hostels and guesthouses are available in the Old Town and along Nowy Świat street, a short walk away." },
+      { "name": "Grocery & convenience stores", "desc": "Supermarkets and small shops are located a few minutes' walk away, near the edge of the Old Town and along Krakowskie Przedmieście." },
+      { "name": "Fuel stations & EV charging", "desc": "There are no fuel stations directly in the Old Town; the nearest stations and electric-vehicle chargers are outside the city centre." },
+      { "name": "Pharmacies", "desc": "Pharmacies can be found in the Old Town area and along the main streets; opening hours may vary." },
+      { "name": "ATMs & cash", "desc": "ATMs are available near the square and at the edge of the Old Town; card payments are widely accepted." },
+      { "name": "Wi-Fi & mobile coverage", "desc": "Public Wi-Fi hotspots and mobile data coverage are available around Castle Square and in the Old Town." },
+      { "name": "Accessibility", "desc": "The square is pedestrian-friendly with level access, although the historic cobblestone streets can be uneven." },
+      { "name": "Bicycle access", "desc": "Warsaw's public bicycle scheme has stations near the Old Town; cycling inside the historic core itself is limited." }
+    ],
+    "note": "Please note: the facilities above may change over time. As a neutral, non-profit guide we intentionally do not recommend specific merchants — the list describes only the types of services available."
+  },
+  "weather": {
+    "title": "Weather in Warsaw",
+    "subtitle": "Current conditions and a five-day forecast near Castle Square, provided by the free Open-Meteo weather API.",
+    "location": "Castle Square, Warsaw",
+    "updated": "Updated",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precip": "Rain prob.",
+    "forecastTitle": "5-Day Forecast",
+    "source": "Weather data: Open-Meteo.com (free service, no API key required).",
+    "fallback": "Weather information is temporarily unavailable — please check a local forecast service and try again later.",
+    "codes": {
+      "clear": "Clear",
+      "partly": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Rain showers",
+      "snowShowers": "Snow showers",
+      "thunder": "Thunderstorm"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the questions visitors ask most often about Sigismund's Column.",
+    "items": [
+      { "q": "Is visiting Sigismund's Column free?", "a": "Yes. The column is an open-air landmark on Castle Square and is accessible to the public free of charge 24 hours a day, all year round." },
+      { "q": "How much time should I plan to spend here?", "a": "Allow about 20–40 minutes to walk around the column, enjoy Castle Square and take photos. If you also visit the Royal Castle or the Old Town, plan at least half a day." },
+      { "q": "When is the best time to visit?", "a": "Sunrise and sunset offer the most beautiful light for photography. Summer evenings are lively with street performers, while early mornings are calm and least crowded." },
+      { "q": "Are there restrooms, restaurants or shops nearby?", "a": "Yes. Public toilets, cafés, restaurants and shops can all be found around Castle Square and inside the Old Town — see the Visitor Facilities section above." },
+      { "q": "Can I take photos or fly a drone?", "a": "Photography is allowed and encouraged. Drone flights are restricted over the Old Town and the Royal Castle; always check the current local regulations before flying." },
+      { "q": "How do I get there by public transport?", "a": "The column stands in the heart of the Old Town. Take a tram or bus to the Stare Miasto (Old Town) area and walk a few minutes, or walk about 15 minutes from the Centrum metro station. Parking nearby is very limited, so public transport is recommended." }
+    ]
   },
   "officialManagement": {
     "title": "About Sigismund's Column",

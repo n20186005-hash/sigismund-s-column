@@ -1,428 +1,355 @@
 {
   "meta": {
-    "title": "Sigismund's Column | Warsaw Castle Square Core Monument & Old Town Landmark - Best European Attractions",
-    "description": "Complete guide to exploring Sigismund's Column in Warsaw, Poland. Learn about opening hours, transportation, ticket info, travel tips and stunning photos. Poland's most iconic classical memorial column and Old Town cultural landmark."
+    "title": "Kolumna Zygmunta (Warszawa) – przewodnik: godziny, bilety, historia i dojazd",
+    "description": "Kompletny przewodnik po Kolumnie Zygmunta w Warszawie, w Polsce. Godziny otwarcia, dojazd, informacje o biletach, porady dla zwiedzających i zdjęcia. Najbardziej znany świecki pomnik kolumnowy i zabytek Starego Miasta."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "home": "Strona główna",
+    "gallery": "Galeria",
+    "reviews": "Opinie",
+    "map": "Mapa",
+    "backToHome": "Wróć na stronę główną"
   },
   "hero": {
-    "title": "Sigismund's Column",
-    "subtitle": "Warsaw Castle Square Core Monument · 17th Century Classical Memorial",
+    "title": "Kolumna Zygmunta",
+    "subtitle": "Zabytkowy pomnik na Placu Zamkowym w Warszawie · Klasyczny pomnik z XVII wieku",
     "rating": "4.7",
-    "reviewCount": "17,658",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "reviewCount": "18,224",
+    "hours": "Otwarte 24 godziny",
+    "openMaps": "Zobacz lokalizację"
   },
   "intro": {
-    "title": "Explore Sigismund's Column",
-    "description": "Honestly, when you step into Warsaw Castle Square, the first thing that catches your eye is this straight-standing Sigismund's Column. It stands quietly in the heart of the Old Town, surrounded by colorful retro European buildings and magnificent royal palace architecture, with an overwhelming vintage atmosphere. I visited on a cool autumn afternoon, the square's breeze gentle, the Old Town's red-tile buildings layered and spread out, the ancient stone column particularly solemn under the clear sky.\n\nThe bronze statue atop the column stands tall and proud, telling the stories of the old dynasty. Visitors walk slowly around, without the noise of over-commercialization, only the unique peaceful atmosphere of the Old Town. Occasionally street performers play classical music, the melody echoing through the square's air, blending with the century-old monument, instantly creating the perfect ambiance.\n\nYou can freely walk around the column, carefully observe the traces of weathering on the stone, touch the texture of historical沉淀; or sit on the square's stone steps, watch people come and go, gaze at the entire Warsaw Old Town's vintage street scenes. This monument is not just a check-in landmark, but the spiritual anchor of the entire city.\n\nWhen twilight falls, warm light covers the square, the column and Old Town buildings merge into one, the play of light and shadow gentle and soft. Standing here, you can see the lively city烟火, and also read the city's story of war and rebirth. The ancient monument and modern life coexist gently—this is the most moving appearance of Warsaw.",
+    "title": "Poznaj Kolumnę Zygmunta",
+    "description": "Gdy wchodzisz na warszawski Plac Zamkowy, pierwszą rzeczą, która rzuca się w oczy, jest smukła Kolumna Zygmunta. Stoi spokojnie w sercu Starego Miasta, otoczona kolorową, zabytkową europejską zabudową i majestatyczną bryłą Zamku Królewskiego, tworząc niepowtarzalny, staromiejski klimat. Odwiedziłem ją w chłodne, jesienne popołudnie — powiew wiatru był łagodny, czerwone dachy Starego Miasta rozpościerały się warstwami, a wiekowy kamienny pomnik pod czystym niebem wyglądał wyjątkowo dostojnie.\n\nStojąca na szczycie kolumny brązowa figura Zygmunta III Wazy spogląda dumnie z góry, opowiadając dzieje dawnej dynastii. Odwiedzający spacerują wokół monumentu powoli — bez zgiełku nadmiernej komercji, tylko w niepowtarzalnej, spokojnej atmosferze Starego Miasta. Od czasu do czasu uliczni artyści grają muzykę klasyczną, a jej melodia niesie się po placu, łącząc się z wielowiekowym pomnikiem i tworząc doskonały nastrój.\n\nMożesz swobodnie obejść kolumnę dookoła, uważnie przyjrzeć się śladom wietrzenia na kamieniu i dotknąć tekstury przesiąkniętej historią; możesz też usiąść na kamiennych stopniach placu, obserwować przechodniów i podziwiać zabytkowe widoki Starego Miasta. Ten pomnik to nie tylko miejsce do zdjęć, lecz duchowy kotwic całego miasta.\n\nGdy zapada zmierzch, ciepłe światło zalewa plac, a kolumna i zabudowa Starego Miasta zlewają się w jedną całość, a gra światła i cienia jest miękka i subtelna. Stojąc tutaj, dostrzegasz tętniące życiem miasto, ale też czytasz jego historię wojny i odrodzenia. Dawny zabytek i współczesne życie współistnieją łagodnie — to najpiękniejszy obraz Warszawy.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Porady przed wizytą",
       "items": [
-        "Recommended to visit in early morning or evening, fewer tourists, softer Old Town lighting",
-        "Perfect for scenery viewing and shooting vintage street scenes, avoid strong midday light",
-        "Dense dining and cultural shops around the square, experience local specialties as needed",
-        "Wear comfortable flat shoes, the square's stone-paved surface is uneven"
+        "Najlepiej przyjść wcześnie rano lub wieczorem — mniej turystów, łagodniejsze światło Starego Miasta",
+        "Idealne miejsce do podziwiania widoków i fotografii w klimacie starego miasta; unikaj silnego południowego słońca",
+        "Wokół placu znajdziesz liczne restauracje i sklepy z pamiątkami — warto spróbować lokalnych specjałów",
+        "Załóż wygodne buty na płaskiej podeszwie — nawierzchnia placu jest kamienna i nierówna"
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "Największe atrakcje okolicy",
       "items": [
-        "Warsaw's most representative classical memorial column",
-        "Central Europe's early pillar-type sculpture architectural model",
-        "Core component of Warsaw Old Town UNESCO World Heritage Site",
-        "Century-old landmark witnessing Poland's capital transfer and dynasty changes"
+        "Najbardziej reprezentacyjny klasyczny pomnik kolumnowy Warszawy",
+        "Wczesny środkowoeuropejski przykład architektury kolumnowo-rzeźbiarskiej",
+        "Kluczowy element Starego Miasta wpisanego na listę światowego dziedzictwa UNESCO",
+        "Wiekowy zabytek, świadek przeniesienia stolicy i dziejów dynastii"
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Sigismund's Column",
+    "title": "Poznaj urok Kolumny Zygmunta",
     "sections": [
       {
         "id": "history",
-        "title": "Centuries of Capital Transfer History",
-        "content": "Sigismund's Column was built in 1644 to commemorate King Sigismund III moving the capital from Kraków to Warsaw, making it the first non-religious public monument in the area. For hundreds of years, it has served as the core landmark of Castle Square, witnessing Polish dynastic rule, urban prosperity, and historical changes.\n\nDuring World War II, Warsaw suffered severe damage, with the column structure and bronze statue destroyed, and the monument was partially damaged. After the war, the city was comprehensively rebuilt, and this classic landmark was precisely restored, strictly replicating the original shape and carving details, completely preserving the 17th-century architectural style.\n\nToday, the column is no longer just a symbol of royal power, but a symbol of Warsaw's rebirth. Having survived destruction and reconstruction, it quietly guards the Old Town streets, connecting the past and present, becoming an important cultural carrier for tourists to understand Warsaw's history and locals to pass down city memories."
+        "title": "Stulecia historii przenosin stolicy",
+        "content": "Kolumna Zygmunta została wzniesiona w 1644 roku dla upamiętnienia przeniesienia przez króla Zygmunta III Wazę stolicy z Krakowa do Warszawy, dzięki czemu stała się pierwszym świeckim pomnikiem publicznym w tej okolicy. Przez setki lat służyła jako główny punkt orientacyjny Placu Zamkowego, będąc świadkiem panowania dynastii, rozkwitu miasta i wielkich przemian historycznych.\n\nW czasie II wojny światowej Warszawa ucierpiała ogromnie — konstrukcja kolumny i brązowa figura zostały zniszczone, a pomnik uległ częściowemu uszkodzeniu. Po wojnie miasto odbudowano w całości, a ten klasyczny zabytek pieczołowicie odtworzono, ściśle powielając pierwotny kształt i detale rzeźbiarskie oraz w pełni zachowując XVII-wieczny styl architektoniczny.\n\nDziś kolumna to już nie tylko symbol władzy królewskiej, lecz symbol odrodzenia Warszawy. Ocalona z zniszczeń i odbudowana, wciąż spokojnie strzeże ulic Starego Miasta, łącząc przeszłość z teraźniejszością i stanowiąc ważny nośnik kultury — dla turystów drogę do poznania historii Warszawy, a dla mieszkańców sposób przekazywania miejskich wspomnień."
       },
       {
         "id": "architecture",
-        "title": "Architectural Features",
-        "content": "The overall structure consists of a granite column body and a bronze king statue combined. The column is tall and slender, topped with classical capital decoration, with the standing figure of Sigismund III at the apex, holding royal power symbols, standing in the center of Castle Square, backed by the Royal Palace and retro Old Town buildings, creating a solemn and majestic atmosphere. Late Renaissance combined with early Baroque design, solemn and refined lines, exquisite carving details, heavy memorial-style composition, combining classical memorial character with Old Town vintage aesthetics, representing classic European landmark architecture of the 17th century."
+        "title": "Cechy architektoniczne",
+        "content": "Całość konstrukcji łączy granitowy trzon kolumny z brązową figurą króla. Kolumna jest smukła i wysoka, zwieńczona klasyczną kapitelą, a na jej szczycie stoi postać Zygmunta III z atrybutami władzy królewskiej. Pomnik góruje nad środkiem Placu Zamkowego, z Zamkiem Królewskim i zabytkową zabudową Starego Miasta w tle, tworząc dostojną i majestatyczną kompozycję. Styl późnego renesansu z elementami wczesnego baroku, powściągliwe i wysmakowane linie, misterne detale rzeźbiarskie i poważna, pomnikowa kompozycja łączą klasyczny charakter pamiątkowy z estetyką starego miasta, reprezentując klasyczną XVII-wieczną architekturę Europy."
       },
       {
         "id": "culture",
-        "title": "Cultural Value",
-        "content": "One of Poland's national spirit symbols, representing Warsaw's beginning as the capital. It serves as the core venue for local gatherings and festive activities, as well as the Old Town's cultural calling card. Having survived war damage and post-war restoration, it symbolizes urban rebirth and national resilience, carrying profound humanistic significance. The column witnessed Poland's transformation from medieval dynasty to modern era."
+        "title": "Wartość kulturowa",
+        "content": "Kolumna Zygmunta jest jednym z symboli narodowego ducha Polski i reprezentuje początek Warszawy jako stolicy. Służy jako główne miejsce lokalnych spotkań i uroczystości oraz kulturalna wizytówka Starego Miasta. Ocalała ze zniszczeń wojennych i odbudowana po wojnie, symbolizuje odrodzenie miasta i odporność narodu, niosąc głębokie znaczenie humanistyczne. Kolumna była świadkiem przemian Polski — od średniowiecznego królestwa po czasy nowożytne."
       },
       {
         "id": "experience",
-        "title": "Core Experience",
-        "content": "Walk around the monument in a circle, shoot the landmark panorama and humanistic atmosphere from multiple angles. Walk to the north side of the square, closely visit the Royal Palace's facade, feel the classical royal architectural momentum. Walk along the square's edge pathways, check in the Old Town's retro colored building clusters, explore the surrounding minor streets. When twilight falls, warm light covers the square, the column and Old Town buildings merge into one, the play of light and shadow gentle—this is the perfect timing for shooting vintage大片."
+        "title": "Najważniejsze doświadczenia",
+        "content": "Obejdź pomnik dookoła i uwiecznij panoramę zabytku oraz atmosferę miejsca z wielu perspektyw. Przejdź na północną stronę placu, aby z bliska zobaczyć fasadę Zamku Królewskiego i poczuć monumentalną klasę królewskiej architektury. Spaceruj wzdłuż krawędzi placu, odkrywaj kolorowe, zabytkowe kamienice Starego Miasta i otaczające go wąskie uliczki. Gdy zapada zmierzch, ciepłe światło zalewa plac, a kolumna i zabudowa Starego Miasta zlewają się w jedno — idealny moment na klimatyczne, stylizowane na retro fotografie."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Podstawowe informacje",
+    "officialName": "Oficjalna nazwa",
     "officialNameValue": "Kolumna Zygmunta",
-    "type": "Attraction Type",
-    "typeValue": "Historical Monument, Old Town Landmark, Square Heritage",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Warsaw",
-    "googleRating": "Google Rating",
-    "phone": "Phone",
-    "address": "Address",
-    "addressValue": "Plac Zamkowy, 00-001 Warszawa, Poland"
+    "type": "Rodzaj atrakcji",
+    "typeValue": "Zabytek historyczny, zabytek Starego Miasta, dziedzictwo placu",
+    "country": "Kraj",
+    "countryValue": "Polska",
+    "city": "Miasto",
+    "cityValue": "Warszawa",
+    "googleRating": "Ocena Google",
+    "phone": "Telefon",
+    "address": "Adres",
+    "addressValue": "Plac Zamkowy, 00-001 Warszawa, Polska"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Castle Square Area",
-    "outdoorTime": "Open 24 hours, no closure periods for the monument",
-    "lighthouse": "Surrounding Royal Palace, Historical Museums and other venues",
-    "summer": "Regular Hours",
-    "summerTime": "10:00 AM - 6:00 PM",
-    "winter": "Closed Days",
-    "winterTime": "Most venues closed on Mondays",
-    "warning": "Visiting Tips",
-    "warningTime": "Recommended to visit in early morning or evening, fewer tourists, softer Old Town lighting",
-    "tip": "Perfect for scenery viewing and shooting vintage street scenes, avoid strong midday light"
+    "title": "Godziny otwarcia",
+    "outdoor": "Obszar Placu Zamkowego",
+    "outdoorTime": "Otwarte 24 godziny — pomnik nie ma godzin zamknięcia",
+    "lighthouse": "Okoliczny Zamek Królewski, muzea i inne obiekty",
+    "summer": "Godziny standardowe",
+    "summerTime": "10:00 – 18:00",
+    "winter": "Dni zamknięte",
+    "winterTime": "Większość obiektów zamknięta w poniedziałki",
+    "warning": "Porady przed wizytą",
+    "warningTime": "Polecamy przyjść wcześnie rano lub wieczorem — mniej turystów, łagodniejsze światło Starego Miasta",
+    "tip": "Idealne miejsce do podziwiania widoków i zdjęć w klimacie starego miasta; unikaj silnego południowego słońca"
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Sigismund's Column and Castle Square Public Area",
-    "outdoorPrice": "Free access, no entrance fees or viewing charges",
-    "lighthouse": "Surrounding Royal Palace, Exhibition Halls",
-    "adults": "Adults",
-    "adultsPrice": "Tiered discount prices",
-    "students": "Students",
-    "studentsPrice": "Discounted prices",
-    "children": "Children",
-    "childrenPrice": "Free or discounted",
-    "card": "Warsaw City Pass",
-    "cardPrice": "Can be linked to multiple surrounding historical attractions, saving travel expenses"
+    "title": "Informacje o biletach",
+    "outdoor": "Kolumna Zygmunta i przestrzeń publiczna Placu Zamkowego",
+    "outdoorPrice": "Wstęp bezpłatny — bez opłat za wejście i podziwianie widoków",
+    "lighthouse": "Okoliczny Zamek Królewski i sale wystawowe",
+    "adults": "Dorośli",
+    "adultsPrice": "Ceny zależne od biletu",
+    "students": "Studenci",
+    "studentsPrice": "Ceny ulgowe",
+    "children": "Dzieci",
+    "childrenPrice": "Wstęp bezpłatny lub ulgowy",
+    "card": "Warszawska karta miejska",
+    "cardPrice": "Można powiązać z wieloma okolicznymi atrakcjami i zaoszczędzić na zwiedzaniu"
   },
   "transport": {
-    "title": "Transportation",
-    "airport": "From Warsaw Chopin Airport",
-    "airportDesc": "Take airport express trams or intercity buses to the city center, transfer to Old Town direction short-distance transport, 3-minute walk to Castle Square, about 30 minutes total; airport ride-hailing and taxis available 24/7, suitable for travelers with luggage for quick direct access.",
-    "selfDrive": "From Warsaw Central Railway Station",
-    "selfDriveDesc": "Take city trams or short-distance buses to quickly reach the Old Town entrance, 5-minute walk to the column landmark, public transport runs frequently and reliably.",
-    "bus": "From Other City Attractions",
-    "busDesc": "Walking accessible from Palace of Culture and Science, Vistula River banks and other downtown attractions, Old Town street connectivity is strong, suitable for hiking to visit multiple attractions.",
-    "intercity": "City Cycling",
-    "intercityDesc": "The city supports short-distance cycling, with regulated parking points around the square, very convenient for short trips.",
-    "cycling": "Public Transport Tips",
-    "cyclingDesc": "Recommended to purchase Warsaw public transport day pass, unlimited rides on trams, buses and metro, suitable for multi-attraction itinerary travel.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Old Town street connectivity is strong, suitable for hiking to visit multiple attractions."
+    "title": "Dojazd i transport",
+    "airport": "Z lotniska Chopina w Warszawie",
+    "airportDesc": "Ekspresowe tramwaje lotniskowe lub autobusy międzymiastowe do centrum, przesiadka na krótkie linie w kierunku Starego Miasta i 3 minuty pieszo na Plac Zamkowy — łącznie ok. 30 minut; przez całą dobę dostępne są też aplikacje transportowe i taksówki, wygodne dla podróżnych z bagażem.",
+    "selfDrive": "Z Dworca Centralnego w Warszawie",
+    "selfDriveDesc": "Tramwajem miejskim lub krótkimi liniami autobusowymi szybko dotrzesz do wejścia na Stare Miasto, a stamtąd 5 minut pieszo do kolumny; komunikacja miejska kursuje często i niezawodnie.",
+    "bus": "Z innych atrakcji w centrum",
+    "busDesc": "Do kolumny można dojść pieszo z Pałacu Kultury i Nauki, bulwarów nad Wisłą i innych atrakcji w centrum — Stare Miasto ma świetne połączenia piesze, co pozwala po drodze zwiedzić wiele miejsc.",
+    "intercity": "Rowerem miejskim",
+    "intercityDesc": "Miasto wspiera krótkie trasy rowerowe, wokół placu znajdują się wyznaczone punkty parkowania rowerów — bardzo wygodne na krótkie przejazdy.",
+    "cycling": "Porady dotyczące komunikacji miejskiej",
+    "cyclingDesc": "Polecamy zakup jednodniowego biletu ZTM — nielimitowane przejazdy tramwajami, autobusami i metrem, idealne na zwiedzanie wielu atrakcji.",
+    "tips": "Porady podróżne",
+    "tipsDesc": "Stare Miasto ma doskonałe połączenia piesze — spacer to najlepszy sposób na zwiedzenie wielu atrakcji."
   },
   "route": {
-    "title": "Visiting Route",
-    "overview": "Recommended to visit in off-peak morning hours, enter Castle Square from the Old Town main entrance, first closely visit Sigismund's Column, observe architectural details while circling around; then stroll around the square, check in Royal Palace, Old Town gate, walk through retro streets, finally rest and stay around the square, feel the Old Town's local atmosphere. The entire route is easy and flat, pure sightseeing about 1 hour, deep Old Town exploration can extend to half a day.",
+    "title": "Trasa zwiedzania",
+    "overview": "Polecamy przyjść poza szczytem porannych godzin, wejść na Plac Zamkowy głównym wejściem od Starego Miasta, najpierw z bliska obejrzeć Kolumnę Zygmunta i przy okrążaniu przyjrzeć się detalom architektonicznym; następnie przespacerować się po placu, odwiedzić Zamek Królewski i bramę Starego Miasta, przejść klimatycznymi uliczkami i na koniec odpocząć w okolicach placu, poczuć lokalną atmosferę. Cała trasa jest łatwa i płaska — samo zwiedzanie to ok. 1 godziny, a głębsza eksploracja Starego Miasta może wydłużyć się do pół dnia.",
     "steps": [
-      "Arrive at Old Town public transport station, walk into Warsaw Castle Square main area",
-      "Walk straight to the center of the square, closely observe Sigismund's Column, observe column carvings and top statue details",
-      "Walk around the monument slowly in a circle, shoot landmark panorama and humanistic atmosphere from multiple angles",
-      "Walk to the north side of the square, closely visit Royal Palace facade, feel the classical royal architectural momentum",
-      "Walk along the square's edge pathways, check in Old Town retro colored building clusters, explore surrounding minor streets",
-      "Pass Old Town church and historical archways, connect multiple minor heritage points for continuous touring",
-      "Stay and sit in the square's open-air area, observe local residents' and tourists' daily state",
-      "Slowly leave along the Old Town main road, continue exploring Warsaw Old Town's deep attractions"
+      "Dojedź na przystanek komunikacji przy Starym Mieście i wejdź w główną część Placu Zamkowego w Warszawie",
+      "Podejdź prosto na środek placu i z bliska obejrzyj Kolumnę Zygmunta — rzeźbę i detale zwieńczenia",
+      "Wolno okrąż pomnik dookoła, fotografując panoramę zabytku i atmosferę miejsca z wielu stron",
+      "Przejdź na północną stronę placu, aby z bliska zobaczyć fasadę Zamku Królewskiego i poczuć monumentalny charakter królewskiej architektury",
+      "Spaceruj wzdłuż krawędzi placu, odkrywając kolorowe kamienice Starego Miasta i otaczające uliczki",
+      "Mijaj staromiejskie kościoły i zabytkowe bramy, łącząc kolejne punkty dziedzictwa w jedną trasę",
+      "Odpocznij w plenerowej części placu i obserwuj codzienne życie mieszkańców i turystów",
+      "Wolno opuść plac główną ulicą Starego Miasta i kontynuuj zwiedzanie dalszych atrakcji warszawskiej Starówki"
     ],
+    "supplementTitle": "Praktyczne uwagi",
     "supplements": [
-      "Square mainly stone-paved surface, road surface is uneven, recommended to wear comfortable flat shoes for easy walking",
-      "Winter square winds are relatively strong, pay attention to wind protection and warmth",
-      "Protect historical heritage, climbing and carving on monument buildings is prohibited",
-      "Dense dining and cultural shops around the square, can experience local specialties and handcrafts as needed",
-      "Limited parking near the square, recommended to use public transport or walk"
+      "Nawierzchnia placu jest kamienna i nierówna — zalecamy wygodne buty na płaskiej podeszwie",
+      "Zimą na placu wieje dość silny wiatr — zadbaj o ochronę przed wiatrem i ciepły ubiór",
+      "Chroń zabytek — wspinanie się na pomnik i rzeźbienie na nim jest zabronione",
+      "Wokół placu znajdziesz restauracje i sklepy z rękodziełem — warto skosztować lokalnych specjałów",
+      "Przy placu jest mało miejsc parkingowych — polecamy komunikację miejską lub spacer"
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Miejsca do zdjęć",
     "spots": [
-      {
-        "name": "Direct Front of Monument",
-        "desc": "Facing the column and Royal Palace building cluster, symmetrical composition, shoot classic Old Town landmark panorama"
-      },
-      {
-        "name": "Square Slanted High Ground",
-        "desc": "Top-down shot of column with entire Castle Square, wide view, rich layers in the frame"
-      },
-      {
-        "name": "Twilight Backlight Position",
-        "desc": "Use sunset soft light to outline column contours, atmosphere vintage大片首选"
-      },
-      {
-        "name": "Street Entrance Frame",
-        "desc": "Use Old Town archway as foreground, frame the column main body, niche composition with texture"
-      },
-      {
-        "name": "Square Stone Paving Close-up",
-        "desc": "Low-angle shot of column details and statue, highlight heritage texture over the years"
-      }
+      { "name": "Bezpośrednio przed pomnikiem", "desc": "Naprzeciw kolumny i bryły Zamku Królewskiego, symetryczna kompozycja — klasyczna panorama Starego Miasta" },
+      { "name": "Wzniesienie obok placu", "desc": "Widok z góry na kolumnę i cały Plac Zamkowy — szeroka perspektywa, bogate plany kadru" },
+      { "name": "Punkt przy świetle wieczornym", "desc": "Miękkie światło zachodu słońca obrysowuje sylwetkę kolumny — najlepszy wybór dla klimatycznych fotografii starego miasta" },
+      { "name": "Kadr z bramy ulicznej", "desc": "Zabytkowa brama Starego Miasta jako pierwszy plan, kadr na kolumnę — kompozycja z głębią i fakturą" },
+      { "name": "Zbliżenie na kamienną nawierzchnię", "desc": "Fotografowanie detali kolumny i figury z niskiego kąta, podkreślające wieloletnią patynę zabytku" }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Square is open with no shelter, midday light is strong, recommended to avoid strong light periods for shooting. Old Town core area prohibits drone flying, comply with local cultural heritage protection regulations. Before photographing street performers and local citizens, politely ask for permission. During peak tourist season visitors are dense, for clean empty shots, preferably visit on weekday mornings."
+    "tips": "Porady fotograficzne",
+    "tipsContent": "Plac jest otwarty i nie daje cienia — południowe światło jest mocne, dlatego unikaj fotografowania w jego szczycie. Nad samym Starym Miastem obowiązuje zakaz lotów dronów — przestrzegaj przepisów o ochronie dziedzictwa. Przed sfotografowaniem ulicznych artystów i mieszkańców zawsze pytaj o zgodę. W szczycie sezonu bywa tłoczno; na zdjęcia bez ludzi wybieraj poranne godziny w dni powszednie."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Propozycje noclegów",
     "hotels": [
-      {
-        "name": "Upscale yet Affordable",
-        "desc": "Retro renovated accommodation around Old Town Square, prime location, walk to Castle Square, quiet environment, complete supporting facilities",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Design Choice",
-        "desc": "Modern minimalist residence near main transport artery, all-around travel access, short-distance transfers to all city attractions",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Unique Experience",
-        "desc": "Old-style mansion accommodation within Warsaw Old Town, immersive Central European Old Town street atmosphere, rich local烟火气息",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Budget Choice",
-        "desc": "High-value accommodation around transport hub, convenient public transport, short bus ride to Sigismund's Column attraction",
-        "price": "Price varies by season"
-      }
+      { "name": "Wysoka jakość w dobrej cenie", "desc": "Zabytkowy, odrestaurowany nocleg w pobliżu Rynku Starego Miasta, w doskonałej lokalizacji — spacerem na Plac Zamkowy, cisza i pełne zaplecze", "price": "Cena zależna od sezonu" },
+      { "name": "Wybór dla miłośników designu", "desc": "Nowoczesny, minimalistyczny obiekt przy głównej trasie komunikacyjnej — łatwy dojazd do wszystkich atrakcji miasta", "price": "Cena zależna od sezonu" },
+      { "name": "Niepowtarzalne doświadczenie", "desc": "Nocleg w zabytkowej kamienicy warszawskiego Starego Miasta — pełna atmosfera środkowoeuropejskiej Starówki i autentyczne życie miasta", "price": "Cena zależna od sezonu" },
+      { "name": "Wybór budżetowy", "desc": "Wysoki stosunek jakości do ceny w pobliżu węzła komunikacyjnego — wygodny dojazd, krótka podróż autobusem do Kolumny Zygmunta", "price": "Cena zależna od sezonu" }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Warsaw Old Town area has good security, daytime sightseeing is very safe, try to avoid quiet alleys late at night. Accommodation prices increase during peak travel seasons and holidays, recommended to book in advance. Prioritize Old Town and surrounding area accommodation, walking distance covers the vast majority of historical attractions, significantly saving transportation time."
+    "supplements": "Uwagi o noclegach",
+    "supplementsContent": "Okolice warszawskiego Starego Miasta są bezpieczne — w ciągu dnia zwiedzanie jest bardzo bezpieczne, późną nocą unikaj cichych zaułków. Ceny noclegów rosną w szczycie sezonu i w czasie świąt — rezerwuj z wyprzedzeniem. Wybieraj nocleg na Starym Mieście lub w jego pobliżu — większość zabytków będzie w zasięgu spaceru, co pozwoli znacznie zaoszczędzić czas na dojazdach."
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Sigismund's Column and Warsaw Old Town Scenery",
+    "title": "Galeria zdjęć",
+    "subtitle": "Kolumna Zygmunta i widoki warszawskiego Starego Miasta",
     "captions": [
-      "Widok panoramiczny Kolumny Zygmunta",
-      "Plac Zamkowy i Kolumna",
-      "Szczegół z brązu",
+      "Panorama Kolumny Zygmunta",
+      "Plac Zamkowy i kolumna",
+      "Detal brązowej figury",
       "Widok na ulicę Starego Miasta",
       "Fasada Zamku Królewskiego",
-      "Zabytkowe budynki",
+      "Zabytkowa zabudowa",
       "Kolumna o zmierzchu",
-      "Zbliżenie statui",
+      "Zbliżenie figury",
       "Zbliżenie Kolumny Zygmunta",
-      "Widok z daleka na Stare Miasto",
-      "Krajobraz Placu Zamkowego",
-      "Kolumna i Pałac",
+      "Widok na stare miasto Warszawy z daleka",
+      "Widoki Placu Zamkowego",
+      "Kolumna i zamek",
       "Panorama Warszawy"
     ],
     "viewAll": "Zobacz więcej zdjęć w Google Maps"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed through Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "title": "Opinie odwiedzających",
+    "declaration": "Opinie można przeglądać w Google Maps (link zewnętrzny).",
+    "moreReviews": "Zobacz więcej opinii w Google Maps",
     "items": [
-      {
-        "name": "Buster Got it",
-        "date": "3 miesiące temu",
-        "rating": 5,
-        "text": "Kolumna Zygmunta, wzniesiona pierwotnie w 1644 roku, znajduje się na Placu Zamkowym w Warszawie w Polsce i jest jednym z najbardziej znanych punktów orientacyjnych Warszawy, a także pierwszym świeckim pomnikiem w formie kolumny w nowożytnej historii."
-      },
-      {
-        "name": "Isabelle Ana-Maria",
-        "date": "5 miesięcy temu",
-        "rating": 5,
-        "text": "Odwiedziłem Kolumnę Zygmunta zimą i wyglądała absolutnie pięknie. Cały plac ma magiczną atmosferę, gdy jest zimno i śnieżnie. Widok był naprawdę niesamowity."
-      },
-      {
-        "name": "조문경",
-        "date": "3 miesiące temu",
-        "rating": 5,
-        "text": "Świetne miejsce na zdjęcia dla turystów. Budynki są piękne i jest to punkt startowy atrakcji turystycznych Starego Miasta. Nie są wymagane bilety na zwiedzanie. Widok za tym pomnikiem jest wspaniały."
-      },
-      {
-        "name": "khalil bourazzan",
-        "date": "7 miesięcy temu",
-        "rating": 5,
-        "text": "Dumnie stojąca na Placu Zamkowym Kolumna Zygmunta to jeden z najbardziej kultowych zabytków Warszawy. Honoruje króla Zygmunta III Wazę, monarchę, który uczynił Warszawę stolicą Polski."
-      },
-      {
-        "name": "Andre Delgado",
-        "date": "5 miesięcy temu",
-        "rating": 5,
-        "text": "Ta kolumna stoi od 1644 roku. Kolumna została wymieniona w 1887 r., dopóki nie została zburzona podczas II wojny światowej. Zarówno oryginalna kolumna, jak i druga leżą obok zamku i można je zobaczyć. Statua króla Zygmunta jest oryginalna."
-      },
-      {
-        "name": "Julie",
-        "date": "5 miesięcy temu",
-        "rating": 5,
-        "text": "Nocne zdjęcie kolumny. Wieczorem było tu znacznie spokojniej. Odwiedziłem to miejsce zimą i było zimno. Lato może być inne. Ta kolumna jest częstym miejscem spotkań na rozpoczęcie wycieczek."
-      },
-      {
-        "name": "Aida Rabina",
-        "date": "7 miesięcy temu",
-        "rating": 5,
-        "text": "Jedno z najlepszych miejsc na podziwianie oszałamiającego zachodu słońca w Warszawie! 22-metrowa Kolumna Zygmunta została nazwana na cześć Zygmunta III Wazy, króla Polski (1587-1632) i Szwecji (1592-1599)."
-      },
-      {
-        "name": "Sahib o",
-        "date": "8 miesięcy temu",
-        "rating": 5,
-        "text": "Stare Miasto w Warszawie jest piękne i pełne historii. Kolumna Zygmunta to kultowy punkt orientacyjny i świetne miejsce na rozpoczęcie zwiedzania starego miasta!"
-      }
+      { "name": "Buster Got it", "date": "3 miesiące temu", "rating": 5, "text": "Kolumna Zygmunta (Kolumna Zygmunta III Wazy), wzniesiona pierwotnie w 1644 roku, znajduje się na Placu Zamkowym w Warszawie i jest jednym z najbardziej znanych zabytków miasta, a także pierwszym świeckim pomnikiem w formie kolumny w historii nowożytnej." },
+      { "name": "Isabelle Ana-Maria", "date": "5 miesięcy temu", "rating": 5, "text": "Odwiedziłam Kolumnę Zygmunta zimą i wyglądała przepięknie. Cały plac ma magiczną atmosferę, gdy jest mroźno i śnieżnie. Widok był naprawdę niesamowity." },
+      { "name": "조문경", "date": "3 miesiące temu", "rating": 5, "text": "Świetne miejsce do zdjęć dla turystów. Budynki są piękne, a to początek szlaku turystycznego po Starym Mieście. Do zwiedzania nie są potrzebne bilety. Widok za pomnikiem jest przepiękny." },
+      { "name": "khalil bourazzan", "date": "7 miesięcy temu", "rating": 5, "text": "Dumnie stojąca na Placu Zamkowym Kolumna Zygmunta to jedna z najbardziej kultowych atrakcji Warszawy. Upamiętnia króla Zygmunta III Wazę, władcę, który uczynił Warszawę stolicą Polski." },
+      { "name": "Andre Delgado", "date": "5 miesięcy temu", "rating": 5, "text": "Ta kolumna stoi od 1644 roku. W 1887 roku wymieniono ją na nową, dopóki nie została zniszczona podczas II wojny światowej. Zarówno oryginalna, jak i druga kolumna leżą obok zamku i można je obejrzeć. Figura króla Zygmunta jest oryginalna." },
+      { "name": "Julie", "date": "5 miesięcy temu", "rating": 5, "text": "Nocne zdjęcie kolumny. Wieczorem w tym miejscu było znacznie spokojniej. Odwiedziłam je zimą i było zimno — latem może być inaczej. Ta kolumna to częste miejsce spotkań na początek wycieczek." },
+      { "name": "Aida Rabina", "date": "7 miesięcy temu", "rating": 5, "text": "Jedno z najlepszych miejsc na zachód słońca w Warszawie! 22-metrowa Kolumna Zygmunta została nazwana na cześć Zygmunta III Wazy, króla Polski (1587–1632) i Szwecji (1592–1599)." },
+      { "name": "Sahib o", "date": "8 miesięcy temu", "rating": 5, "text": "Stare Miasto w Warszawie jest piękne i pełne historii. Kolumna Zygmunta to kultowy zabytek i świetny punkt startowy do zwiedzania starówki!" }
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Plac Zamkowy, 00-001 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "title": "Przewodnik dojazdowy",
+    "subtitle": "Plac Zamkowy, 00-001 Warszawa, Polska",
+    "openMaps": "Otwórz w Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Sigismund's Column Independent Tourism Research Association · All Rights Reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "rights": "© 2026 Niezależne Stowarzyszenie Badań Turystycznych Kolumny Zygmunta · Wszelkie prawa zastrzeżone.",
+    "lastUpdated": "Treść ostatnio zweryfikowana przez niezależny zespół redakcyjny 4 września 2026 r.",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "cookies": "Ustawienia plików cookie",
+    "officialResourcesTitle": "Powiązane zasoby i informacje",
     "officialLinks": {
-      "council": "Polish Tourism Board",
-      "tourism": "Warsaw Tourism",
+      "council": "Polska Organizacja Turystyczna",
+      "tourism": "Turystyka Warszawy",
       "england": "Warsaw Tour"
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "photoCredit": "Wszystkie zdjęcia prezentowane na tej stronie pozostają własnością ich autorów i są wykorzystywane wyłącznie w celach informacyjnych.",
+    "disclaimer": "Ta strona to niezależny, trzeci sektorowy projekt informacji turystycznej. Nie jesteśmy powiązani z samorządem ani innymi oficjalnymi instytucjami."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: April 2026",
+    "title": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: 4 września 2026",
     "sections": [
-      {
-        "heading": "1. Information Collection",
-        "content": "We typically do not proactively collect personally identifiable information from users. Any information you provide through contact forms or email will be kept strictly confidential."
-      },
-      {
-        "heading": "2. Information Use",
-        "content": "Information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes."
-      },
-      {
-        "heading": "3. Cookies and Tracking Technologies",
-        "content": "We use cookies and similar tracking technologies to track activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We strive to use commercially acceptable means to protect your personal data, but no internet transmission method or electronic storage method is 100% secure."
-      }
+      { "heading": "1. Gromadzenie informacji", "content": "Zwykle nie gromadzimy proaktywnie danych osobowych użytkowników. Wszelkie informacje przekazane przez formularze kontaktowe lub e-mail pozostają ściśle poufne." },
+      { "heading": "2. Wykorzystanie informacji", "content": "Zbierane informacje służą wyłącznie do świadczenia, utrzymania i ulepszania naszych usług oraz do komunikacji z Tobą. Nie sprzedajemy ani nie udostępniamy danych osobowych osobom trzecim w celach marketingowych." },
+      { "heading": "3. Pliki cookie i technologie śledzenia", "content": "Używamy plików cookie i podobnych technologii do śledzenia aktywności na naszej stronie. Możesz ustawić przeglądarkę tak, aby odrzucała wszystkie pliki cookie lub informowała o ich wysyłaniu." },
+      { "heading": "4. Bezpieczeństwo danych", "content": "Bezpieczeństwo Twoich danych jest dla nas ważne. Staramy się chronić dane osobowe za pomocą akceptowanych komercyjnie środków, jednak żaden sposób transmisji ani przechowywania elektronicznego nie jest w 100% bezpieczny." }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last Updated: April 2026",
+    "title": "Regulamin",
+    "lastUpdated": "Ostatnia aktualizacja: 4 września 2026",
     "sections": [
-      {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you do not agree to any part of these terms, then you may not access the service."
-      },
-      {
-        "heading": "2. Service Use",
-        "content": "This website is an independent third-party travel information project. Information provided is for general reference only. You agree to use this website responsibly and lawfully."
-      },
-      {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website (including text, images, and logos) is the property of the website owner (unless otherwise stated). Unauthorized use, copying, or distribution is strictly prohibited."
-      },
-      {
-        "heading": "4. Limitation of Liability",
-        "content": "We are not responsible for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or any information contained therein."
-      }
+      { "heading": "1. Akceptacja regulaminu", "content": "Korzystając z tej strony internetowej, akceptujesz niniejszy regulamin. Jeśli nie zgadzasz się z jego częścią, nie powinieneś korzystać z usługi." },
+      { "heading": "2. Korzystanie z usługi", "content": "Ta strona jest niezależnym, trzeciosektorowym projektem informacji turystycznej. Informacje mają charakter ogólny i poglądowy. Zobowiązujesz się korzystać ze strony w sposób odpowiedzialny i zgodny z prawem." },
+      { "heading": "3. Własność intelektualna", "content": "Wszystkie treści na tej stronie (w tym teksty, zdjęcia i logotypy) stanowią własność właściciela strony (o ile nie wskazano inaczej). Nieautoryzowane wykorzystanie, kopiowanie lub rozpowszechnianie jest zabronione." },
+      { "heading": "4. Ograniczenie odpowiedzialności", "content": "Nie ponosimy odpowiedzialności za szkody bezpośrednie lub pośrednie wynikające z korzystania z tej strony lub z niemożności jej używania oraz z zawartych w niej informacji." }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "title": "Ustawienia plików cookie",
+    "description": "Zarządzaj preferencjami plików cookie.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always Enabled"
+      "title": "Niezbędne pliki cookie",
+      "description": "Wymagane do podstawowego działania strony.",
+      "badge": "Zawsze aktywne"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with our website.",
+      "title": "Analityczne pliki cookie",
+      "description": "Pomagają nam zrozumieć, jak odwiedzający korzystają ze strony.",
       "items": [
-        {
-          "name": "Google Analytics",
-          "status": "Active",
-          "description": "..."
-        }
+        { "name": "Google Analytics", "status": "Aktywne", "description": "..." }
       ]
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites.",
+      "title": "Marketingowe pliki cookie",
+      "description": "Służą do śledzenia odwiedzających między stronami.",
       "items": [
-        {
-          "name": "Personalized Ads",
-          "status": "Inactive",
-          "description": "..."
-        }
+        { "name": "Spersonalizowane reklamy", "status": "Nieaktywne", "description": "..." }
       ]
     },
-    "save": "Save Settings",
-    "saved": "Settings saved!",
+    "save": "Zapisz ustawienia",
+    "saved": "Ustawienia zapisane!",
     "preferences": {
       "items": [
-        {
-          "name": "User Preferences",
-          "status": "Active",
-          "description": "..."
-        }
+        { "name": "Preferencje użytkownika", "status": "Aktywne", "description": "..." }
       ],
-      "title": "Preferences Cookies",
-      "description": "Preferences Description"
+      "title": "Pliki cookie preferencji",
+      "description": "Opis preferencji"
     },
-    "consentManagement": "Consent management...",
-    "rejectAll": "Reject All"
+    "consentManagement": "Zarządzanie zgodą...",
+    "rejectAll": "Odrzuć wszystkie"
+  },
+  "facilities": {
+    "title": "Udogodnienia w pobliżu",
+    "subtitle": "Udogodnienia wokół placu, o które najczęściej pytają odwiedzający. Ten niezależny przewodnik pozostaje neutralny: wymienia wyłącznie rodzaje usług i nigdy nie rekomenduje konkretnych firm.",
+    "items": [
+      { "name": "Toalety publiczne", "desc": "Publiczne toalety są dostępne wokół Placu Zamkowego i na Starym Mieście, w tym płatne sanitariaty przy wejściu do Zamku Królewskiego." },
+      { "name": "Parking", "desc": "Parking na Starym Mieście jest bardzo ograniczony. Najbliższe parkingi znajdują się na obrzeżach Starego Miasta lub przy bulwarach wiślanych — zalecamy komunikację miejską." },
+      { "name": "Restauracje i kawiarnie", "desc": "Stare Miasto pełne jest restauracji, kawiarni i tradycyjnych barów mlecznych serwujących polską kuchnię." },
+      { "name": "Hotele i noclegi", "desc": "Hotele, hostele i pensjonaty znajdziesz na Starym Mieście oraz wzdłuż ulicy Nowy Świat, kilka minut spacerem." },
+      { "name": "Sklepy spożywcze i convenience", "desc": "Supermarkety i mniejsze sklepy znajdują się kilka minut spacerem, na obrzeżach Starego Miasta i przy Krakowskim Przedmieściu." },
+      { "name": "Stacje benzynowe i ładowarki EV", "desc": "Na Starym Mieście nie ma stacji benzynowych; najbliższe stacje i ładowarki dla samochodów elektrycznych znajdują się poza centrum miasta." },
+      { "name": "Apteki", "desc": "Apteki można znaleźć na Starym Mieście i przy głównych ulicach; godziny otwarcia mogą się różnić." },
+      { "name": "Bankomaty i gotówka", "desc": "Bankomaty znajdują się w pobliżu placu i na obrzeżach Starego Miasta; płatności kartą są powszechnie akceptowane." },
+      { "name": "Wi-Fi i zasięg komórkowy", "desc": "Publiczne punkty Wi-Fi i zasięg sieci komórkowych są dostępne wokół Placu Zamkowego i na Starym Mieście." },
+      { "name": "Dostępność", "desc": "Plac jest płaski i przyjazny dla pieszych oraz osób na wózkach, choć historyczna brukowana nawierzchnia bywa nierówna." },
+      { "name": "Rower", "desc": "Warszawski Rower Publiczny ma stacje w pobliżu Starego Miasta; jazda w samym zabytkowym centrum jest ograniczona." }
+    ],
+    "note": "Uwaga: powyższe udogodnienia mogą się zmieniać. Jako neutralny, niekomercyjny przewodnik celowo nie rekomendujemy konkretnych firm — lista opisuje wyłącznie rodzaje dostępnych usług."
+  },
+  "weather": {
+    "title": "Pogoda w Warszawie",
+    "subtitle": "Aktualne warunki i pięciodniowa prognoza w pobliżu Placu Zamkowego, dostarczane przez bezpłatne API pogodowe Open-Meteo.",
+    "location": "Plac Zamkowy, Warszawa",
+    "updated": "Aktualizacja",
+    "feelsLike": "Odczuwalna",
+    "humidity": "Wilgotność",
+    "wind": "Wiatr",
+    "precip": "Prawd. opadów",
+    "forecastTitle": "Prognoza na 5 dni",
+    "source": "Dane pogodowe: Open-Meteo.com (bezpłatna usługa, bez klucza API).",
+    "fallback": "Informacje pogodowe są chwilowo niedostępne — sprawdź lokalną prognozę i spróbuj ponownie później.",
+    "codes": {
+      "clear": "Bezchmurnie",
+      "partly": "Częściowe zachmurzenie",
+      "overcast": "Pochmurno",
+      "fog": "Mgła",
+      "drizzle": "Mżawka",
+      "rain": "Deszcz",
+      "snow": "Śnieg",
+      "showers": "Przelotne opady",
+      "snowShowers": "Opady śniegu",
+      "thunder": "Burza"
+    }
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na pytania, które odwiedzający najczęściej zadają o Kolumnę Zygmunta.",
+    "items": [
+      { "q": "Czy zwiedzanie Kolumny Zygmunta jest bezpłatne?", "a": "Tak. Kolumna jest plenerowym zabytkiem na Placu Zamkowym i jest dostępna bezpłatnie przez całą dobę, przez cały rok." },
+      { "q": "Ile czasu powinienem zaplanować na wizytę?", "a": "Zarezerwuj ok. 20–40 minut na obejście kolumny, spacer po Placu Zamkowym i zdjęcia. Jeśli zwiedzisz też Zamek Królewski lub Stare Miasto, zaplanuj co najmniej pół dnia." },
+      { "q": "Kiedy jest najlepszy czas na wizytę?", "a": "O wschodzie i zachodzie słońca światło jest najpiękniejsze do fotografii. Letnie wieczory są pełne życia dzięki ulicznym artystom, a wczesny ranek jest spokojny i najmniej zatłoczony." },
+      { "q": "Czy w pobliżu są toalety, restauracje lub sklepy?", "a": "Tak. Wokół Placu Zamkowego i na Starym Mieście znajdziesz publiczne toalety, kawiarnie, restauracje i sklepy — patrz sekcja „Udogodnienia w pobliżu” powyżej." },
+      { "q": "Czy mogę robić zdjęcia lub latać dronem?", "a": "Fotografowanie jest dozwolone i mile widziane. Loty dronów są ograniczone nad Starym Miastem i Zamkiem Królewskim; przed startem zawsze sprawdź aktualne przepisy." },
+      { "q": "Jak dojechać komunikacją miejską?", "a": "Kolumna stoi w sercu Starego Miasta. Jedź tramwajem lub autobusem w okolice Starego Miasta i przejdź kilka minut pieszo, albo idź ok. 15 minut ze stacji metra Centrum. Parking w pobliżu jest bardzo ograniczony — zalecamy komunikację miejską." }
+    ]
   },
   "officialManagement": {
-    "title": "About Sigismund's Column",
-    "text": "Sigismund's Column is managed and maintained by the Warsaw City Government, and is one of Poland's most important historical landmarks.\n\nAs Warsaw's most representative classical memorial column, Sigismund's Column has witnessed centuries of urban changes and Polish dynastic history. Today, the column is open to the public for free, making it an excellent destination for exploring Warsaw's history and Old Town scenery, as well as an important window for global tourists to experience Polish cultural charm."
+    "title": "O Kolumnie Zygmunta",
+    "text": "Kolumna Zygmunta jest zarządzana i utrzymywana przez władze miasta Warszawy i należy do najważniejszych zabytków historycznych Polski.\n\nJako najbardziej reprezentacyjny klasyczny pomnik kolumnowy Warszawy, Kolumna Zygmunta była świadkiem wieków przemian miejskich i dziejów polskiej dynastii. Dziś kolumna jest udostępniona publiczności bezpłatnie — to doskonały cel dla poznających historię Warszawy i krajobrazy Starego Miasta, a także ważne okno dla turystów z całego świata, by poznać polski urok kulturowy."
   },
   "recommendations": {
-    "title": "Explore More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
+    "title": "Odkrywaj więcej",
+    "attractionsTitle": "Atrakcje w pobliżu",
+    "toursTitle": "Polecane wycieczki i atrakcje",
     "attractions": [
-      {
-        "name": "Royal Castle",
-        "url": "https://www.wawelcastle.pl"
-      },
-      {
-        "name": "Old Town Square",
-        "url": "https://warsawtour.pl"
-      },
-      {
-        "name": "Mermaid Statue",
-        "url": "https://warsawtour.pl"
-      },
-      {
-        "name": "St. John's Cathedral",
-        "url": "https://warsawtour.pl"
-      }
+      { "name": "Zamek Królewski", "url": "https://www.wawelcastle.pl" },
+      { "name": "Rynek Starego Miasta", "url": "https://warsawtour.pl" },
+      { "name": "Pomnik Syrenki", "url": "https://warsawtour.pl" },
+      { "name": "Katedra św. Jana", "url": "https://warsawtour.pl" }
     ],
     "tours": [
-      {
-        "name": "Warsaw Old Town Deep Tour",
-        "url": "https://warsawtour.pl"
-      },
-      {
-        "name": "Castle Square Historical Tour",
-        "url": "https://warsawtour.pl"
-      },
-      {
-        "name": "Polish History Exploration",
-        "url": "https://warsawtour.pl"
-      },
-      {
-        "name": "Old Town Food Tour",
-        "url": "https://warsawtour.pl"
-      }
+      { "name": "Głębokie zwiedzanie Starego Miasta", "url": "https://warsawtour.pl" },
+      { "name": "Historyczna wycieczka po Placu Zamkowym", "url": "https://warsawtour.pl" },
+      { "name": "Poznawanie polskiej historii", "url": "https://warsawtour.pl" },
+      { "name": "Kulinarna wycieczka po Starym Mieście", "url": "https://warsawtour.pl" }
     ]
   }
 }

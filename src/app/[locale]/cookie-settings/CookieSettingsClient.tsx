@@ -71,6 +71,7 @@ export default function CookieSettingsClient() {
 
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, preferences, marketing }));
+    window.dispatchEvent(new Event('consent-updated'));
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }
@@ -80,6 +81,7 @@ export default function CookieSettingsClient() {
     setPreferences(false);
     setMarketing(false);
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics: false, preferences: false, marketing: false }));
+    window.dispatchEvent(new Event('consent-updated'));
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }

@@ -20,26 +20,22 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/* 
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.6!2d21.0136!3d52.248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc7a8a26f9f7%3A0x47eb6b9a6f8c0c9!2sKolumna%20Zygmunta!5e0!3m2!1sen!2spl!4v1700000000000!5m2!1sen!2spl"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4344.852890001508!2d21.013377700000003!3d52.24725269999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc660ecf4397%3A0x606e6abd2c40a3a8!2z6KW_5ZCJ5pav6JKZ5b635ZyG5p-x!5e1!3m2!1szh-CN!2s!4v1788501492672!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Sigismund's Column"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Sigismund's Column, Plac Zamkowy, Warsaw"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/nih1rXkS7MTPaVqo7"
+            href="https://maps.app.goo.gl/qfsryFsYLAMbNAku8"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"

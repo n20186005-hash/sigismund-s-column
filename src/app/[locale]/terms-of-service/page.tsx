@@ -2,29 +2,36 @@ import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 
+const baseUrl = 'https://sigismundscolumn.com';
+const selfUrls: Record<string, string> = {
+  pl: `${baseUrl}/pl`,
+  en: `${baseUrl}/en`,
+  zh: `${baseUrl}/zh`,
+  ru: `${baseUrl}/ru`,
+  de: `${baseUrl}/de`,
+};
+
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const path = '/terms-of-service';
+  const selfUrl = (selfUrls[locale] || selfUrls.pl) + path;
+  const languages: Record<string, string> = {
+    pl: selfUrls.pl + path,
+    en: selfUrls.en + path,
+    zh: selfUrls.zh + path,
+    ru: selfUrls.ru + path,
+    de: selfUrls.de + path,
+    'x-default': selfUrls.pl + path,
+  };
 
   return {
     alternates: {
       canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      languages,
     },
   };
 }
@@ -34,7 +41,7 @@ function TermsContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = `/${locale}`;
   const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
