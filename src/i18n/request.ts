@@ -7,8 +7,13 @@ export default getRequestConfig(async ({ requestLocale }) => {
     ? requested
     : routing.defaultLocale;
 
-  return {
-    locale,
-    messages: (await import(`../messages/${locale}.json`)).default,
-  };
+  const messages = (await import(`../messages/${locale}.json`)).default;
+  try {
+    const fs = await import('node:fs');
+    fs.appendFileSync(
+      process.cwd() + '/dbg-request.txt',
+      locale + ' routeKeys=' + Object.keys((messages as any)?.route || {}).join(',') + '\n'
+    );
+  } catch (e) {}
+  return { locale, messages };
 });

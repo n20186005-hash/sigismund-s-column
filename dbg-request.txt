@@ -1,0 +1,8 @@
+pl routeKeys=title,overview,steps,supplementTitle,supplements
+pl routeKeys=title,overview,steps,supplementTitle,supplements
+pl routeKeys=title,overview,steps,supplementTitle,supplements
+en routeKeys=title,overview,steps,supplementTitle,supplements
+zh routeKeys=title,overview,steps,supplementTitle,supplements
+ru routeKeys=title,overview,steps,supplementTitle,supplements
+de routeKeys=title,overview,steps,supplementTitle,supplements
+en routeKeys=title,overview,steps,supplementTitle,supplements
