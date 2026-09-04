@@ -1,4 +1,4 @@
-import { useLocale, useTranslations } from 'next-intl';
+import { getLocale, getTranslations } from 'next-intl/server';
 
 // Open-Meteo 免费天气 API（无需密钥，适合非营利项目）
 // 数据在服务器端获取并缓存 30 分钟（ISR revalidate: 1800）
@@ -36,8 +36,8 @@ const GLYPHS: Record<string, string> = {
 };
 
 export default async function WeatherSection() {
-  const t = useTranslations('weather');
-  const locale = useLocale();
+  const t = await getTranslations('weather');
+  const locale = await getLocale();
 
   let weather: {
     current: { temp: number; feels: number; humidity: number; wind: number; code: number };
