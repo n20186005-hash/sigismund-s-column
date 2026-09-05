@@ -296,7 +296,7 @@
   },
   "weather": {
     "title": "Pogoda w Warszawie",
-    "subtitle": "Aktualne warunki i pięciodniowa prognoza w pobliżu Placu Zamkowego, dostarczane przez bezpłatne API pogodowe Open-Meteo.",
+    "subtitle": "Aktualne warunki i pięciodniowa prognoza w pobliżu Placu Zamkowego.",
     "location": "Plac Zamkowy, Warszawa",
     "updated": "Aktualizacja",
     "feelsLike": "Odczuwalna",
@@ -304,7 +304,7 @@
     "wind": "Wiatr",
     "precip": "Prawd. opadów",
     "forecastTitle": "Prognoza na 5 dni",
-    "source": "Dane pogodowe: Open-Meteo.com (bezpłatna usługa, bez klucza API).",
+    "source": "Dane pogodowe: Open-Meteo.com.",
     "fallback": "Informacje pogodowe są chwilowo niedostępne — sprawdź lokalną prognozę i spróbuj ponownie później.",
     "codes": {
       "clear": "Bezchmurnie",

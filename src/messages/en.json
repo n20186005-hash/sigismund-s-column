@@ -403,7 +403,7 @@
   },
   "weather": {
     "title": "Weather in Warsaw",
-    "subtitle": "Current conditions and a five-day forecast near Castle Square, provided by the free Open-Meteo weather API.",
+    "subtitle": "Current conditions and a five-day forecast near Castle Square.",
     "location": "Castle Square, Warsaw",
     "updated": "Updated",
     "feelsLike": "Feels like",
@@ -411,7 +411,7 @@
     "wind": "Wind",
     "precip": "Rain prob.",
     "forecastTitle": "5-Day Forecast",
-    "source": "Weather data: Open-Meteo.com (free service, no API key required).",
+    "source": "Weather data: Open-Meteo.com.",
     "fallback": "Weather information is temporarily unavailable — please check a local forecast service and try again later.",
     "codes": {
       "clear": "Clear",

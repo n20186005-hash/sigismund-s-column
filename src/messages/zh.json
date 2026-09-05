@@ -403,7 +403,7 @@
   },
   "weather": {
     "title": "华沙天气",
-    "subtitle": "城堡广场附近的实时天气与未来五日预报，数据来自免费的 Open-Meteo 天气接口（无需密钥）。",
+    "subtitle": "城堡广场附近的实时天气与未来五日预报。",
     "location": "城堡广场 · 华沙",
     "updated": "更新时间",
     "feelsLike": "体感温度",
@@ -411,7 +411,7 @@
     "wind": "风速",
     "precip": "降雨概率",
     "forecastTitle": "未来 5 天预报",
-    "source": "天气数据来源：Open-Meteo.com（免费服务，无需 API 密钥）",
+    "source": "天气数据来源：Open-Meteo.com",
     "fallback": "天气信息暂时无法获取，请稍后重试，或查看本地天气预报服务。",
     "codes": {
       "clear": "晴",

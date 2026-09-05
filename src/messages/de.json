@@ -296,7 +296,7 @@
   },
   "weather": {
     "title": "Wetter in Warschau",
-    "subtitle": "Aktuelle Bedingungen und Fünf-Tage-Prognose am Schlossplatz – bereitgestellt von der kostenlosen Wetter-API Open-Meteo.",
+    "subtitle": "Aktuelle Bedingungen und Fünf-Tage-Prognose am Schlossplatz.",
     "location": "Schlossplatz, Warschau",
     "updated": "Aktualisiert",
     "feelsLike": "Gefühlt",
@@ -304,7 +304,7 @@
     "wind": "Wind",
     "precip": "Niederschlagswahrscheinlichkeit",
     "forecastTitle": "5-Tage-Vorhersage",
-    "source": "Wetterdaten: Open-Meteo.com (kostenloser Dienst, kein API-Schlüssel erforderlich).",
+    "source": "Wetterdaten: Open-Meteo.com.",
     "fallback": "Wetterinformationen sind derzeit nicht verfügbar – schauen Sie in die lokale Vorhersage und versuchen Sie es später erneut.",
     "codes": {
       "clear": "Klar",
